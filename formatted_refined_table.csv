@@ -1,0 +1,1171 @@
+College,Prefix,Number,Title,ND,EI,IC,FQ,SI,AD,DD,ER,WF,WD,WI,EX,CE
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BV,CAEP,1280,Introduction to Mindfulness,0,0,1,0,0,0,0,0,0,0,0,0,0
+BV,CAEP,2030,Education and Learning in Ghana,0,0,0,0,0,0,0,0,0,0,0,1,0
+BV,CAEP,2040,Higher Education in Ghana,0,0,0,0,1,0,0,0,0,0,0,0,0
+BV,CAEP,2050,"Health Systems, Services, and Education in Ghana",0,0,0,0,0,0,0,0,0,0,0,1,0
+BV,CAEP,2060,Health and Well-Being in Ghana,0,0,0,0,1,0,0,0,0,0,0,0,0
+BV,CAEP,2280,"The Yoga Tradition in Nepal: Philosophy, Methods, and Practice",0,0,1,0,0,0,0,0,0,0,0,1,0
+BV,CAEP,2290,"The Yoga Tradition: Philosophy, Methods, and Practice",0,0,1,0,0,0,0,0,0,0,0,0,0
+BV,CAEP,3000,Contemporary College Student Activism,0,0,0,0,1,0,0,0,0,0,0,0,0
+BV,CAEP,3200,Childhood Adversity and College Attainment,0,0,0,0,0,0,1,0,0,0,0,0,0
+BV,CAEP,3310,Say It Loud: The Black Power Movement and Higher Education,0,0,0,0,0,0,1,0,0,0,0,0,0
+BV,CAEP,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+BV,CAEP,5150,Early Intervention: Family Systems,0,0,0,0,0,0,1,0,0,0,0,0,0
+BV,HLTH,2100,Interprofessional Ethics for Individual and Population Health,0,0,0,0,0,0,0,1,0,0,1,0,0
+BV,HLTH,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+BV,HLTH,5280,The (in)Visibility of (dis)Ability in Society,0,0,0,0,0,0,1,0,0,0,0,0,0
+BV,HLTH,5700,Social Determinants of Health,0,0,0,0,1,0,0,0,0,0,0,0,0
+BV,HSCI,1105,Human Nutrition,1,0,0,0,0,0,0,0,0,0,0,0,0
+BV,HSCI,1106,Contemporary Issues in Nutrition,1,0,0,0,0,0,0,0,0,0,0,0,0
+BV,HSCI,4720,Health Science Capstone—Service,0,0,0,0,0,0,0,0,0,0,0,0,1
+BV,HSCI,4730,Health Science Capstone—Research,0,0,0,0,0,0,0,0,0,0,0,0,1
+BV,HSCI,4740,Health Science Capstone Seminar,0,0,0,0,0,0,0,0,0,0,0,0,1
+BV,HSCI,4971,Junior/Senior Honors Project 2,0,0,0,0,0,0,0,0,0,0,0,0,1
+BV,HSCI,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+BV,HSCI,4994,Internship,0,0,0,0,0,0,0,0,0,0,0,1,0
+BV,NRSG,2150,Ethical Healthcare: Genetics and Genomics,0,0,0,0,0,0,0,1,0,0,0,0,0
+BV,NRSG,2210,Influences on Health and Illness: A Nursing Perspective,0,1,0,0,0,0,1,0,0,0,0,0,0
+BV,NRSG,4604,Public Health Community Nursing,0,0,1,0,0,0,0,0,0,0,0,0,0
+BV,NRSG,4605,Clinical for NRSG 4604,0,0,0,0,0,0,0,0,0,0,0,1,0
+BV,NRSG,4610,Managing and Leading in Healthcare,0,0,0,0,0,0,0,0,0,0,1,0,1
+BV,NRSG,4611,Managing and Leading in Healthcare—An International Perspective,0,0,0,0,0,0,0,0,0,0,1,0,1
+BV,NRSG,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+BV,NRSG,5120,Statistics for Health Science,0,0,0,1,0,1,0,0,0,0,0,0,0
+BV,NRSG,5220,Introduction to Research Methods and Application for Healthcare,1,0,0,0,0,0,0,0,0,0,1,0,0
+BV,PHMD,2310,Professional Communication in Pharmacy Practice,0,0,0,0,0,0,1,0,0,0,0,0,0
+BV,PHMD,3450,Research Methodology and Biostatistics,1,0,0,0,0,0,0,1,0,0,0,0,0
+BV,PHMD,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+BV,PHMD,5223,Evidence-Based Medicine,0,0,0,0,0,0,0,0,0,0,1,0,0
+BV,PHMD,5560,Applied Drug Information,0,0,0,0,0,0,0,0,0,0,1,0,0
+BV,PHMD,5600,Pharmacy Capstone,0,0,0,0,0,0,0,0,0,0,1,0,1
+BV,PHSC,2400,Research Ethics for Beginning Health Scientists,0,0,0,0,0,0,0,1,0,0,0,0,0
+BV,PHSC,3430,Pharmacokinetics and Biopharmaceutics,0,0,0,0,0,1,0,0,0,0,0,0,0
+BV,PHSC,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+BV,PHSC,4997,Senior Thesis,0,0,0,0,0,0,0,0,0,0,1,0,1
+BV,PHSC,4998,Senior Thesis Continuation,0,0,0,0,0,0,0,0,0,0,1,0,0
+BV,PHTH,1260,The American Healthcare System,0,0,0,0,1,0,0,0,0,0,0,0,0
+BV,PHTH,1261,Comparative Healthcare Systems,0,0,0,0,1,0,0,0,0,0,0,0,0
+BV,PHTH,1270,Introduction to Global Health,0,0,0,0,1,0,0,0,0,0,0,0,0
+BV,PHTH,2210,Foundations of Biostatistics,0,0,0,1,0,1,0,0,0,0,0,0,0
+BV,PHTH,2300,Communication Skills for the Health Professions,0,1,0,0,0,0,1,0,0,0,0,0,0
+BV,PHTH,2301,Communication Skills for the Health Professions—Global,0,1,0,0,0,0,1,0,0,0,0,0,0
+BV,PHTH,2350,Community and Public Health,0,0,0,0,1,0,0,0,0,0,0,0,0
+BV,PHTH,2351,Community and Public Health - Global,0,0,0,0,1,0,0,0,0,0,0,0,0
+BV,PHTH,2616,Rural Health: An Interdisciplinary Seminar,0,0,0,0,1,0,0,0,0,0,0,0,0
+BV,PHTH,4120,Global Perspectives on Discrimination and Health,0,0,1,0,0,0,1,0,0,0,0,0,0
+BV,PHTH,4202,Principles of Epidemiology in Medicine and Public Health,1,0,0,0,0,0,0,0,0,0,1,0,0
+BV,PHTH,4540,Health Education and Program Planning,0,0,0,0,0,0,0,0,0,0,1,0,0
+BV,PHTH,5120,"Race, Ethnicity, and Health in the United States",0,0,1,0,0,0,1,0,0,0,0,0,0
+BV,PHTH,5540,Health Education and Program Planning,0,0,0,0,0,0,0,0,0,0,1,0,0
+BV,PHTH,6200,Principles and History of Urban Health,0,0,0,0,0,0,0,0,0,0,0,0,1
+BV,PT,1880,Introduction to Sports Medicine,1,0,0,0,0,0,0,0,0,0,0,0,0
+BV,PT,2300,Sociocultural Aspects of Sports Injury,0,0,0,0,0,0,0,0,0,0,0,1,0
+BV,PT,3400,Human Kinesiology,1,0,0,0,0,0,0,0,0,0,0,0,0
+BV,PT,4996,Experiential Education Directed Study,0,0,0,0,0,0,0,0,0,0,0,1,0
+BV,PT,5133,Kinesiology,1,0,0,0,0,0,0,0,0,0,0,0,0
+BV,PT,5151,Lab for PT 5150,0,0,0,0,0,1,0,0,0,0,0,0,0
+BV,PT,5160,Psychosocial Aspects of Healthcare,0,0,0,0,0,0,0,1,0,0,0,0,0
+BV,PT,5227,Physical Therapy Project 1,0,1,0,1,0,0,0,0,0,0,1,0,1
+BV,PT,5229,Physical Therapy Project 2,0,0,0,0,0,0,0,0,0,0,0,0,1
+BV,PT,6243,"Health Education, Promotion, and Wellness",0,0,0,0,0,0,1,0,0,0,0,0,0
+BV,SLPA,1101,Introduction to Communication Disorders,1,0,0,0,0,0,0,0,0,0,0,0,0
+BV,SLPA,1555,Communication Disorders in Movies,1,0,0,0,0,0,0,0,0,0,0,0,0
+BV,SLPA,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+BV,SLPA,5107,Clinical Procedures,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAMD,ARCH,1110,Fundamental Architectural Representation,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARCH,1120,Fundamental Architectural Design,1,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARCH,1310,"Buildings and Cities, A Global History",0,0,1,0,0,0,1,0,0,0,0,0,0
+CAMD,ARCH,1450,Understanding Design,0,1,0,0,0,0,1,0,0,0,0,0,0
+CAMD,ARCH,2240,Architectonic Systems,1,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARCH,2260,Introduction to Building Systems,1,0,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARCH,2310,History of Chinese Architecture,0,0,1,0,0,0,1,0,0,0,1,0,0
+CAMD,ARCH,2320,Modern Chinese Architecture,0,0,1,0,1,0,0,0,0,0,1,0,0
+CAMD,ARCH,2330,Architecture and the City in the Nineteenth Century,0,0,1,0,1,0,0,0,0,0,1,0,0
+CAMD,ARCH,2340,Modern Architecture,0,0,1,0,1,0,0,0,0,0,1,0,0
+CAMD,ARCH,2345,Contemporary Architecture,0,0,1,0,0,0,0,0,0,0,1,0,0
+CAMD,ARCH,2355,"Architecture Conservation: Intervention, Transformation, and Reuse",0,0,1,0,0,0,0,0,0,0,1,0,0
+CAMD,ARCH,2370,Topics in Architectural History,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,ARCH,3170,"Architecture, Infrastructure, and the City",0,0,0,0,0,0,0,0,0,0,0,0,1
+CAMD,ARCH,3210,Environmental Systems,1,0,0,0,0,1,0,0,0,0,0,0,0
+CAMD,ARCH,3351,Architecture Topics Abroad: Theory,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,ARCH,3352,Architecture Topics Abroad: Drawing,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARCH,3370,Advanced Topics in Architectural History,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,ARCH,3450,Advanced Architectural Communication,1,0,0,0,0,1,0,0,0,0,0,0,0
+CAMD,ARCH,4850,Urban and Architectural History Abroad,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,ARCH,4960,Architectural Studies Capstone,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAMD,ARCH,4996,Experiential Education Directed Study,0,0,0,0,0,0,0,0,0,0,0,1,0
+CAMD,ARCH,5120,Comprehensive Design Studio,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAMD,ARCH,5210,Environmental Systems,1,0,0,0,0,1,0,0,0,0,0,0,0
+CAMD,ARCH,5230,Structural Systems,1,0,0,1,0,0,0,0,0,0,0,0,0
+CAMD,ARCH,5530,Innovative Models in Real Estate Development and Design,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAMD,ARTD,1001,"Media Art, Culture, and Social Justice",0,0,0,0,0,0,1,1,0,0,0,0,0
+CAMD,ARTD,2100,Narrative Basics,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,ARTD,2370,Animation Basics,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTD,3460,Photography: Concept + Process,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTD,4530,Media Arts Degree Project,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAMD,ARTE,2301,The Graphic Novel,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTE,2500,Art and Design Abroad: Studio,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTE,2501,Art and Design Abroad: History,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTE,4994,Internship,0,0,0,0,0,0,0,0,0,0,0,1,0
+CAMD,ARTE,4996,Experiential Education Directed Study,0,0,0,0,0,0,0,0,0,0,0,1,0
+CAMD,ARTF,1120,Observational Drawing,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTF,1121,Conceptual Drawing,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTF,1122,Color and Composition,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTF,2220,Movement and Time,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTF,2223,Experience and Interaction,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTG,1250,Design Process Context and Systems,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTG,2250,Typography 1,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTG,3250,Physical Computing,0,1,0,0,0,1,0,0,0,0,0,0,0
+CAMD,ARTG,3350,Typography 2,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTG,3450,Graphic Design 2,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTG,4550,Design Degree Project,0,1,0,0,0,0,0,0,0,0,0,0,1
+CAMD,ARTG,4554,Typography 3,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTH,1001,Visual Intelligence,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTH,1110,Global Art and Design History: Ancient to Medieval,0,0,1,0,1,0,0,0,0,0,0,0,0
+CAMD,ARTH,1111,Global Art and Design History: Renaissance to Modern,0,0,1,0,1,0,0,0,0,0,0,0,0
+CAMD,ARTH,1400,"The Science of Art, the Art of Science",0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTH,2210,Modern Art and Design History,0,0,1,0,1,0,0,0,0,0,1,0,0
+CAMD,ARTH,2211,Contemporary Art and Design History,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,ARTH,3000,Topics in Visual Studies,0,0,1,0,0,0,0,0,0,0,1,0,0
+CAMD,ARTH,3211,Performance Art,0,1,1,0,0,0,0,0,0,0,1,0,0
+CAMD,ARTH,4000,Topics in Visual Studies,0,0,1,0,0,0,0,0,0,0,1,0,0
+CAMD,ARTS,2340,Painting Basics,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,ARTS,2341,Figure Drawing,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,1101,Introduction to Communication Studies,0,0,0,0,1,0,0,1,0,0,0,0,0
+CAMD,COMM,1112,Public Speaking,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,1113,Business and Professional Speaking,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,1120,Principles of Argumentation,0,0,0,1,0,0,0,0,0,0,0,0,0
+CAMD,COMM,1131,"Sex, Relationships, and Communication",0,0,0,0,1,0,0,0,0,0,0,0,0
+CAMD,COMM,1210,Persuasion and Rhetoric,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,1225,Communication Theory,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,1231,Principles of Organizational Communication,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,1255,Communication in a Digital Age,0,0,1,0,1,0,0,0,0,0,0,0,0
+CAMD,COMM,1331,"Legal Argumentation, Advocacy, and Citizenship",0,0,1,0,0,0,0,1,0,0,0,0,0
+CAMD,COMM,1412,Social Movement Communication,0,0,1,0,1,0,0,0,0,0,0,0,0
+CAMD,COMM,1450,Sound Production for Digital Media,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,1511,Communication and Storytelling,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,1600,Communication Ethics,0,0,0,0,0,0,0,1,0,0,0,0,0
+CAMD,COMM,2100,Elements of Debate,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,2105,Social Networks,1,0,0,0,0,1,0,0,0,0,0,0,0
+CAMD,COMM,2110,"Sports, Media, and Communication",0,0,0,0,0,0,1,1,0,0,0,0,0
+CAMD,COMM,2131,Dark Side of Interpersonal Communication,0,0,0,0,0,0,1,0,0,0,0,0,0
+CAMD,COMM,2135,Sex and Interpersonal Communication,0,0,0,0,0,0,1,0,0,0,0,0,0
+CAMD,COMM,2200,Visual Communication,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,2301,Communication Research Methods,0,0,0,0,0,1,0,0,0,0,0,0,0
+CAMD,COMM,2303,Global and Intercultural Communication,0,0,0,0,1,0,1,0,0,0,0,0,0
+CAMD,COMM,2304,Communication and Gender,0,0,0,0,1,0,1,0,0,0,0,0,0
+CAMD,COMM,2350,Producing for the Entertainment Industry,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,2501,Communication Law,0,0,0,0,0,0,0,1,0,0,0,0,0
+CAMD,COMM,2510,Social Media Analytics,0,0,0,0,0,1,0,0,0,0,0,0,0
+CAMD,COMM,2534,Group Communication,0,0,0,0,1,0,0,0,0,0,0,0,0
+CAMD,COMM,2550,Television Field Production,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,2551,Free Speech in Cyberspace,0,0,0,0,1,0,0,0,0,0,0,0,0
+CAMD,COMM,2555,Games for Change,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,2625,"Communication, Technology, and Society",0,0,0,0,1,0,0,0,0,0,0,0,0
+CAMD,COMM,2650,The Business of Entertainment,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,2655,Television Studio Production,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,2725,Popular Communication,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,2750,Beyond Television,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,2800,Sport and Spectacle,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,3200,Mobile Communication,0,0,0,0,1,0,0,0,0,0,1,0,0
+CAMD,COMM,3201,Health Communication,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,COMM,3230,Interpersonal Communication,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,COMM,3304,Communication and Inclusion,0,0,0,0,0,0,1,0,0,0,1,0,0
+CAMD,COMM,3307,Production Practicum Abroad,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,3320,Political Communication,0,0,0,0,1,0,0,0,0,0,1,0,0
+CAMD,COMM,3330,Argumentation Theory,0,0,0,1,0,0,0,1,0,0,1,0,0
+CAMD,COMM,3409,Advocacy Writing,0,0,0,0,0,0,0,0,0,1,0,0,0
+CAMD,COMM,3415,Communication Criticism,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,COMM,3445,Public Relations Principles,0,0,0,0,0,0,0,1,0,0,1,0,0
+CAMD,COMM,3450,Voice-Over Artist,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,3451,Advertising Practices,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,3500,"Environmental Issues, Communication, and the Media",0,0,0,0,1,0,0,0,0,0,1,0,0
+CAMD,COMM,3501,Free Speech: Law and Practice,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,COMM,3530,Communication and Sexualities,0,0,0,0,0,0,1,0,0,0,1,0,0
+CAMD,COMM,3532,Theories of Conflict and Negotiation,0,0,0,0,0,0,0,1,0,0,1,0,0
+CAMD,COMM,3655,Digital Editing for TV,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,3750,Special Effects and Postproduction for Television,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,COMM,4102,Health Communication Campaigns,0,0,0,0,0,1,0,0,0,0,0,0,1
+CAMD,COMM,4530,Communication and Quality of Life,0,0,0,0,0,0,0,1,0,0,0,0,1
+CAMD,COMM,4535,Nonverbal Social Interaction,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,COMM,4602,Contemporary Rhetorical Theory,0,0,1,0,0,0,0,0,0,0,0,0,1
+CAMD,COMM,4605,Youth and Communication Technology,0,0,0,0,1,0,1,0,0,0,1,0,0
+CAMD,COMM,4608,Strategic Communication Capstone,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAMD,COMM,4625,Online Communities,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAMD,COMM,4631,Crisis Communication and Image Management,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,COMM,4755,Production Capstone,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAMD,COMM,4901,Seminar in Communications,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAMD,COMM,4994,Internship in Communication,0,0,0,0,0,0,0,0,0,0,0,1,0
+CAMD,GAME,1999,Principles of Board Game Development,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,GAME,2355,Narrative for Games,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,GAME,2500,Foundations of Game Design,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,GAME,2650,Introduction to Game Research Methods,0,0,0,0,0,1,0,0,0,0,0,0,0
+CAMD,GAME,2750,Games Criticism and Theory,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,GAME,3400,Level Design and Game Architecture,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,GAME,3700,Rapid Idea Prototyping for Games,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,GAME,3800,Game Concept Development,0,1,0,0,0,0,0,0,0,0,1,0,0
+CAMD,GAME,4155,Designing Imaginary Worlds,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,GAME,4700,Game Design Capstone,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAMD,GAME,4994,Internship,0,0,0,0,0,0,0,0,0,0,0,1,0
+CAMD,INAM,1300,The Ethics of Narrative in Theatre,0,0,0,0,0,0,0,1,0,0,0,0,0
+CAMD,INAM,2000,Ethics in Creativity,0,1,0,0,0,0,0,1,0,0,1,0,0
+CAMD,INAM,3200,Creative Cognition,0,1,0,0,0,1,0,0,0,0,0,0,0
+CAMD,JRNL,1101,Journalism 1: Fundamentals of Reporting and Writing,0,1,0,0,1,0,0,0,0,0,1,0,0
+CAMD,JRNL,1150,Understanding Today’s News,0,0,0,0,1,0,1,0,0,0,0,0,0
+CAMD,JRNL,1949,Covering Race in Pop Culture and the Media,0,0,1,0,0,0,1,0,0,0,0,0,0
+CAMD,JRNL,2200,Writing for Public Relations,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,JRNL,2250,Spotlight: The Story of Journalism and Democracy,0,0,0,0,1,0,0,1,0,0,0,0,0
+CAMD,JRNL,2285,America and the Holocaust,0,0,0,0,1,0,0,1,0,0,0,0,0
+CAMD,JRNL,2301,Visual Storytelling in Journalism,0,1,0,0,0,0,0,0,0,1,0,0,0
+CAMD,JRNL,2350,The History of Journalism: How the News Became the News,0,0,1,0,1,0,0,0,0,0,1,0,0
+CAMD,JRNL,2800,The Bigger Picture: Sports Journalism Beyond the Box Score,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,JRNL,3370,Podcast and Radio Journalism,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,JRNL,3425,Public Relations Principles,0,0,0,0,0,0,0,1,0,0,1,0,0
+CAMD,JRNL,3550,The First Amendment and the Media,0,0,0,0,1,0,0,1,0,0,1,0,1
+CAMD,JRNL,3610,Digital Storytelling and Social Media,0,1,0,0,0,0,0,0,0,0,1,0,0
+CAMD,JRNL,3650,Science Writing,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,JRNL,3680,Advanced Reporting,0,0,0,0,0,1,0,1,0,0,0,0,0
+CAMD,JRNL,3700,Data Storytelling,0,0,0,0,0,1,0,0,0,0,0,0,0
+CAMD,JRNL,4650,Ethics and Issues in Journalism,0,0,0,0,0,0,0,1,0,0,1,0,1
+CAMD,JRNL,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+CAMD,JRNL,5250,Gender in the Newsroom,0,0,0,0,0,0,1,0,0,0,0,0,0
+CAMD,JRNL,5309,News Documentary Production,0,1,0,0,0,0,0,1,0,0,0,0,0
+CAMD,JRNL,5310,Photojournalism,0,1,0,0,0,0,0,1,0,0,0,0,0
+CAMD,JRNL,5311,Design for Storytelling,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,JRNL,5314,Video News Reporting and Producing,0,1,0,0,0,0,0,1,0,0,0,0,0
+CAMD,JRNL,5316,The Newsroom,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,JRNL,5320,Practicing Photojournalism: Community and the Camera,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,JRNL,5360,Global Reporting,0,0,0,0,0,0,1,0,0,0,0,0,0
+CAMD,JRNL,5420,Public Relations Strategies for Managing Scandal in Business and Politics,0,0,0,0,1,0,0,0,0,0,0,0,0
+CAMD,JRNL,5460,POV: The Art and Craft of Opinion Journalism,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,JRNL,5480,Research for Media Strategy,0,0,0,0,0,1,0,0,0,0,0,0,0
+CAMD,JRNL,5500,Coding for Digital Storytelling,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,LARC,2140,Designed Urban Ecologies,1,0,0,0,0,0,0,0,0,0,0,0,0
+CAMD,LARC,2230,Introduction to Sustainable Site Planning and Design,1,0,0,0,0,0,0,0,0,0,0,0,0
+CAMD,LARC,2330,"Cities, Landscape, and Modern Culture",0,0,0,0,1,0,0,1,0,0,1,0,0
+CAMD,LARC,2340,"Cities, Landscape, and Contemporary Culture",0,0,0,0,1,0,0,1,0,0,1,0,0
+CAMD,LARC,2430,"Plants, People, and Landscape Change",1,0,0,0,0,0,0,0,0,0,0,0,0
+CAMD,LARC,5120,Comprehensive Design Studio,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAMD,LARC,5210,Landscape Ecology,1,0,0,0,0,0,0,0,0,0,0,0,0
+CAMD,LARC,5310,Urban Landscape Seminar,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MSCR,1100,Film 101,0,0,0,0,0,0,1,0,0,0,0,0,0
+CAMD,MSCR,1220,"Media, Culture, and Society",0,0,1,0,1,0,0,0,0,0,0,0,0
+CAMD,MSCR,1230,Introduction to Film Production,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MSCR,1320,Media and Social Change,0,0,0,0,0,0,0,1,0,0,0,0,0
+CAMD,MSCR,2160,Narrative Filmmaking,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MSCR,2220,Understanding Media,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MSCR,2300,Television: Text and Context,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MSCR,2325,Global Media,0,0,0,0,1,0,1,0,0,0,0,0,0
+CAMD,MSCR,2330,Film Genres,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MSCR,2335,Race and Social Justice in American Film,0,0,0,0,0,0,1,0,0,0,0,0,0
+CAMD,MSCR,2336,American Film and Culture,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MSCR,2505,Digital Feminisms,0,1,1,0,0,0,0,0,0,0,1,0,0
+CAMD,MSCR,2895,Film Analysis,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MSCR,3389,Screenwriting,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MSCR,3392,Gender and Film,0,0,0,0,0,0,1,0,0,0,0,0,0
+CAMD,MSCR,3420,Digital Media Culture,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,MSCR,3422,Media Audiences,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,MSCR,3437,Media and Identity,0,0,0,0,0,0,1,0,0,0,0,0,0
+CAMD,MSCR,3446,Documentary Production,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MSCR,3600,Film Theory,0,0,1,0,0,0,0,0,0,0,1,0,0
+CAMD,MSCR,3700,Queer Media,0,0,0,0,0,0,1,0,0,0,1,0,0
+CAMD,MSCR,4208,TV History,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,MSCR,4623,Media and Screen Studies Capstone,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAMD,MSCR,4994,Internship,0,0,0,0,0,0,0,0,0,0,0,1,0
+CAMD,MUSC,1001,Music in Everyday Life,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,1002,Music in Everyday Life,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,1100,Topics in Western Music,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,1111,Rock Music,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,1112,Jazz,0,0,1,0,0,0,1,0,0,0,0,0,0
+CAMD,MUSC,1113,Film Music,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,1119,Fundamentals of Western Music Theory,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,1129,Music of the Middle East,0,0,1,0,0,0,1,0,0,0,0,0,0
+CAMD,MUSC,1134,Guitar Class,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,1136,What's Playing at Symphony?,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,1137,Topics in Diverse Musical Cultures,0,0,1,0,0,0,1,0,0,0,0,0,0
+CAMD,MUSC,1141,Wired for Sound,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,1142,"Pop, Jazz, and Rock Singing",0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,2101,Black Popular Music,0,0,1,0,0,0,1,0,0,0,0,0,0
+CAMD,MUSC,2105,Songs That Made History,0,1,1,0,0,0,0,0,0,0,1,0,0
+CAMD,MUSC,2111,Algebra and Geometry of Music,0,1,0,1,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,2150,"Making a Musical: Analysis, Craft, and Creation",0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,2210,Introduction to Songwriting,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,2211,Advanced Songwriting,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,2310,Popular Music Since 1945,0,0,1,0,1,0,0,0,0,0,0,0,0
+CAMD,MUSC,2311,Topics in American Music,0,0,1,0,0,0,0,0,0,0,1,0,0
+CAMD,MUSC,2312,Topics in Western Art Music,0,0,1,0,0,0,0,0,0,0,1,0,0
+CAMD,MUSC,2313,Topics in Global Music Cultures,0,0,1,0,0,0,1,0,0,0,1,0,0
+CAMD,MUSC,2320,"40,000 Years of Music Technology",0,0,0,0,1,0,0,1,0,0,1,0,0
+CAMD,MUSC,2330,Musical Communities of Boston,0,0,0,0,1,0,1,0,0,0,1,0,0
+CAMD,MUSC,2331,Topics in Musical Communities,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,2336,The Festival Experience,0,0,0,0,1,0,0,0,0,0,0,1,0
+CAMD,MUSC,2340,"Divas, DJs, and Double Standards",0,0,0,0,1,0,1,0,0,0,1,0,0
+CAMD,MUSC,2350,Acoustics and Psychoacoustics of Music,1,0,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,2351,"Music, Sound, and the Screen",0,1,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,2420,Music Composition Seminar 1,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSC,3300,Music Perception and Cognition,1,0,0,0,0,1,0,0,0,0,0,0,0
+CAMD,MUSC,3352,Sounding Human,0,0,1,0,0,0,0,0,0,0,1,0,0
+CAMD,MUSC,3353,Music and the Racial Imagination,0,0,0,0,1,0,1,0,0,0,1,0,0
+CAMD,MUSC,3354,Sound and the Sacred,0,0,1,0,0,0,1,0,0,0,1,0,0
+CAMD,MUSC,3360,Ethnography and the Arts,0,0,0,0,1,1,0,0,0,0,1,0,0
+CAMD,MUSC,3550,Historical Traditions: Special Topics,0,0,0,0,0,0,0,0,0,0,1,0,0
+CAMD,MUSC,4510,Music and the Brain Research,1,0,0,0,0,1,0,0,0,0,0,0,1
+CAMD,MUSC,4651,Music Research Capstone,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAMD,MUSC,6300,Music Perception and Cognition Research,1,0,0,0,0,1,0,0,0,0,0,0,0
+CAMD,MUSI,2101,Demo Production for Songwriters,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSI,2231,Music Licensing for Media,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSI,2234,Festivals,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSI,2235,Copyright in the Creative Industries,0,0,0,0,1,0,0,0,0,0,0,0,0
+CAMD,MUSI,2331,Music Recording 2,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSI,2341,Music Supervision 1,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSI,3333,The Record Industry,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSI,3340,Concert Promotion and Venue Management,0,1,0,0,0,1,0,0,0,0,0,0,0
+CAMD,MUSI,3341,Music Recording 3—Mixing and Mastering,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUSI,3351,Music and Social Justice,0,0,0,0,0,0,1,1,0,0,0,0,0
+CAMD,MUSI,3360,Global Music Industries in Context,0,0,0,0,1,0,1,0,0,0,0,0,0
+CAMD,MUSI,4601,Seminar in Music Industry,0,0,0,0,1,0,0,0,0,0,1,0,1
+CAMD,MUST,1220,Introduction to Music Technology,0,0,0,0,0,1,0,0,0,0,0,0,0
+CAMD,MUST,2102,Composing with Digital Technologies,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUST,2320,Sound Design,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUST,2431,Computer Music Fundamentals,0,0,0,1,0,1,0,0,0,0,0,0,0
+CAMD,MUST,3602,Electronics for Music,1,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUST,3603,Embedded Audio Programming,1,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,MUST,4610,Composition for Electronic Instruments,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAMD,MUST,4611,Music Technology Capstone/Senior Recital,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAMD,SMFA,4000,Museum of Fine Arts Capstone,0,0,0,0,0,0,0,0,0,0,0,0,1
+CAMD,THTR,1101,Introduction to Theatre,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,1120,Acting 1,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,1125,Improvisation,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,1130,Introduction to Acting,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,1131,Introduction to Technical Theatre,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,1150,Dance Performance and History: Modern to Hip Hop,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,1180,The Dynamic On-Screen Presenter,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,1215,Activism and Performance,0,0,1,0,0,0,0,1,0,0,0,0,0
+CAMD,THTR,1220,"Race, Power, and Performance",0,0,1,0,0,0,1,0,0,0,0,0,0
+CAMD,THTR,1230,The Evolution of Fashion and Costume,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,1235,Fashion and Costume Design in Film and Television,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,1240,Fashion Industry and Trend Forecasting in Europe,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,1270,Introduction to Theatrical Design,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,1500,Musical Theatre Performance,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,2200,The American Black Theatre Experience,0,0,0,0,0,0,1,0,0,0,0,0,0
+CAMD,THTR,2310,History of Musical Theatre,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,2330,Playwriting,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,2335,Boston Theatre Experience,0,0,1,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,2340,Theatre and Society,0,0,1,0,1,0,0,0,0,0,0,0,0
+CAMD,THTR,2370,Lighting Design,0,1,0,1,0,0,0,0,0,0,0,0,0
+CAMD,THTR,2380,Costume Design,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,2400,Scenic Design,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,2500,Breaking the Glass Ceiling: Women in Theatre,0,0,1,0,0,0,1,0,0,0,0,0,0
+CAMD,THTR,3100,Creative Storytelling for Social Engagement,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,3200,Queer Theatre and Performance,0,0,0,0,0,0,1,0,0,0,0,0,0
+CAMD,THTR,3325,Dramaturgical Inquiry,0,1,1,0,0,0,0,0,0,1,0,0,0
+CAMD,THTR,3400,Stage Combat,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,3650,Performing Theory,0,1,0,0,0,0,0,0,0,0,0,0,0
+CAMD,THTR,3702,Rehearsal and Production,0,0,0,0,0,0,0,0,0,0,0,1,0
+CAMD,THTR,4702,Capstone: Creative Practice Research Project,0,0,0,0,0,0,0,0,0,0,1,0,1
+CAMD,THTR,4994,Internship,0,0,0,0,0,0,0,0,0,0,0,1,0
+CAMD,THTR,5700,Design for Immersive Performance,0,1,0,0,0,0,0,0,0,0,0,0,0
+CCIS,CS,1100,Computer Science and Its Applications,0,0,0,0,0,1,0,0,0,0,0,0,0
+CCIS,CS,1800,Discrete Structures,0,0,0,1,0,0,0,0,0,0,0,0,0
+CCIS,CS,2500,Fundamentals of Computer Science 1,1,0,0,1,0,0,0,0,0,0,0,0,0
+CCIS,CS,2510,Fundamentals of Computer Science 2,1,0,0,0,0,1,0,0,0,0,0,0,0
+CCIS,CS,2810,Mathematics of Data Models,0,0,0,1,0,1,0,0,0,0,0,0,0
+CCIS,CS,3000,Algorithms and Data,0,0,0,1,0,0,0,0,0,0,0,0,0
+CCIS,CS,3200,Database Design,0,0,0,0,0,1,0,0,0,0,0,0,0
+CCIS,CS,3500,Object-Oriented Design,1,0,0,0,0,1,0,0,0,0,0,0,0
+CCIS,CS,4100,Artificial Intelligence,0,0,0,0,0,0,0,0,0,0,1,0,1
+CCIS,CS,4150,Game Artificial Intelligence,0,0,0,0,0,0,0,0,0,0,1,0,1
+CCIS,CS,4300,Computer Graphics,0,0,0,0,0,0,0,0,0,0,1,0,1
+CCIS,CS,4410,Compilers,0,0,0,0,0,0,0,0,0,0,1,0,1
+CCIS,CS,4500,Software Development,0,0,0,0,0,0,0,0,0,0,1,0,0
+CCIS,CS,4530,Fundamentals of Software Engineering,0,0,0,0,0,0,0,0,0,0,1,0,0
+CCIS,CS,4550,Web Development,0,0,0,0,0,0,0,0,0,0,1,0,1
+CCIS,CS,4820,Computer-Aided Reasoning,0,0,0,0,0,0,0,0,0,0,0,0,1
+CCIS,CS,4991,Research,0,0,0,0,0,0,0,0,0,0,1,1,1
+CCIS,CS,5100,Foundations of Artificial Intelligence,0,0,0,0,0,0,0,0,0,0,1,0,1
+CCIS,CS,5150,Game Artificial Intelligence,0,0,0,0,0,0,0,0,0,0,1,0,1
+CCIS,CS,5200,Database Management Systems,0,0,0,0,0,1,0,0,0,0,0,0,0
+CCIS,CS,5310,Computer Graphics,0,0,0,0,0,0,0,0,0,0,1,0,1
+CCIS,CS,5500,Foundations of Software Engineering,0,0,0,0,0,0,0,0,0,0,1,0,0
+CCIS,CS,5610,Web Development,0,0,0,0,0,0,0,0,0,0,1,0,1
+CCIS,CS,5800,Algorithms,0,0,0,1,0,0,0,0,0,0,0,0,0
+CCIS,CS,6410,Compilers,0,0,0,0,0,0,0,0,0,0,1,0,1
+CCIS,CY,4170,"The Law, Ethics, and Policy of Data and Digital Technologies",0,0,0,0,0,0,0,1,0,0,1,0,0
+CCIS,CY,4770,Cryptography,0,0,0,1,0,0,0,0,0,0,0,0,0
+CCIS,CY,4930,Cybersecurity Capstone,0,0,0,0,0,0,0,0,0,0,1,0,1
+CCIS,CY,5240,"Cyberlaw: Privacy, Ethics, and Digital Rights",0,0,0,0,0,0,0,1,0,0,1,0,0
+CCIS,DS,2000,Programming with Data,0,0,0,0,0,1,0,0,0,0,0,0,0
+CCIS,DS,2500,Intermediate Programming with Data,0,0,0,0,0,1,0,0,0,0,0,0,0
+CCIS,DS,3000,Foundations of Data Science,1,0,0,0,0,1,0,0,0,0,0,0,0
+CCIS,DS,4200,Information Presentation and Visualization,0,0,0,0,0,1,0,0,0,0,1,0,0
+CCIS,DS,4300,Large-Scale Information Storage and Retrieval,0,0,0,0,0,1,0,0,0,0,0,0,0
+CCIS,DS,4400,Machine Learning and Data Mining 1,0,0,0,0,0,1,0,0,0,0,1,0,1
+CCIS,DS,4420,Machine Learning and Data Mining 2,0,0,0,0,0,1,0,0,0,0,1,0,1
+CCIS,DS,4440,Practical Neural Networks,0,0,0,0,0,1,0,0,0,0,0,0,0
+CCIS,DS,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+CCIS,DS,4996,Experiential Education Directed Study,0,0,0,0,0,0,0,0,0,0,0,1,0
+CCIS,DS,5220,Supervised Machine Learning and Learning Theory,0,0,0,0,0,0,0,0,0,0,1,0,1
+CCIS,DS,5230,Unsupervised Machine Learning and Data Mining,0,0,0,0,0,0,0,0,0,0,1,0,1
+CCIS,IS,1300,Knowledge in a Digital World,0,0,0,0,1,0,0,1,0,0,0,0,0
+CCIS,IS,1500,Introduction to Web Development,0,0,0,0,0,1,0,0,0,0,0,0,0
+CCIS,IS,2000,Principles of Information Science,0,0,0,0,0,1,0,0,0,0,0,0,0
+CCIS,IS,2050,Information and Uncertainty,0,0,0,1,0,1,0,0,0,0,0,0,0
+CCIS,IS,3050,Information and Uncertainty,0,0,0,1,0,1,0,0,0,0,0,0,0
+CCIS,IS,3500,Information System Design and Development,0,0,0,0,0,0,0,0,0,0,1,0,0
+CCIS,IS,4991,Research,0,0,0,0,0,0,0,0,0,0,1,1,1
+COE,BIOE,2365,"Bioengineering Measurement, Experimentation, and Statistics",0,0,0,0,0,1,0,0,0,0,1,0,0
+COE,BIOE,4790,Capstone Design 1,0,1,0,0,0,0,0,0,0,0,1,0,1
+COE,BIOE,4792,Capstone Design 2,0,1,0,0,0,0,0,0,0,0,1,0,1
+COE,BIOE,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+COE,CHME,3305,Chemical Engineering Laboratory,0,0,0,0,0,1,0,0,0,0,1,0,0
+COE,CHME,3315,Chemical Engineering Experimental Design 1,0,0,0,0,0,1,0,0,0,0,0,0,0
+COE,CHME,4315,Chemical Engineering Experimental Design 2,0,0,0,0,0,1,0,0,0,0,1,0,0
+COE,CHME,4703,Chemical Process Design Capstone,0,1,0,0,0,0,0,0,0,0,1,0,1
+COE,CHME,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+COE,CIVE,1200,How Cities Work: Experiencing Urban Infrastructure,1,0,0,0,0,0,0,0,0,0,0,0,0
+COE,CIVE,2261,Lab for CIVE 2260,0,0,0,0,0,1,0,0,0,0,0,0,0
+COE,CIVE,4542,Foundation Engineering and Design,0,0,0,0,0,0,0,0,0,0,1,0,0
+COE,CIVE,4554,Highway Design,0,0,0,0,0,0,0,0,0,0,1,0,0
+COE,CIVE,4765,Senior Design Project—Environmental,0,1,0,0,0,0,0,0,0,0,1,0,1
+COE,CIVE,4767,Senior Design Project—Structural,0,1,0,0,0,0,0,0,0,0,1,0,1
+COE,CIVE,4768,Senior Design Project—Transportation,0,1,0,0,0,0,0,0,0,0,1,0,1
+COE,CIVE,4777,Climate Hazards and Resilient Cities Abroad,1,0,0,0,0,1,0,0,0,0,0,0,0
+COE,CIVE,4778,Climate Adaptation and Policy Abroad,1,0,0,0,0,0,0,0,0,0,0,0,0
+COE,CIVE,4780,Timber and Masonry Structures: Technology and Design Abroad,1,0,0,0,0,0,0,0,0,0,0,0,0
+COE,CIVE,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+COE,CIVE,5536,Hydrologic and Hydraulic Design,0,0,0,0,0,0,0,0,0,0,1,0,0
+COE,CIVE,5670,Global Biogeochemistry,1,0,0,0,0,0,0,0,0,0,0,0,0
+COE,EECE,2150,Circuits and Signals: Biomedical Applications,0,0,0,0,0,1,0,0,0,0,0,0,0
+COE,EECE,2413,Lab for EECE 2412,0,0,0,0,0,0,0,0,0,0,1,0,0
+COE,EECE,4790,Electrical and Computer Engineering Capstone 1,0,1,0,0,0,0,0,0,0,0,1,0,1
+COE,EECE,4791,Electrical and Computer Engineering Capstone 1,0,1,0,0,0,0,0,0,0,0,1,0,1
+COE,EECE,4792,Electrical and Computer Engineering Capstone 2,0,1,0,0,0,0,0,0,0,0,1,0,1
+COE,EECE,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+COE,GE,1110,Engineering Design,0,0,0,0,0,0,0,1,0,0,0,0,0
+COE,GE,1111,Engineering Problem Solving and Computation,0,0,0,1,0,0,0,0,0,0,0,0,0
+COE,GE,1210,Scientific Revolutions Abroad,0,0,0,0,1,0,0,0,0,0,0,0,0
+COE,GE,1502,Cornerstone of Engineering 2,0,0,0,0,0,0,0,1,0,0,0,0,0
+COE,IE,2310,Introduction to Industrial Engineering,0,0,0,0,0,0,0,0,0,0,1,0,0
+COE,IE,3412,Engineering Probability and Statistics,0,0,0,0,0,1,0,0,0,0,0,0,0
+COE,IE,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+COE,ME,2340,Introduction to Material Science,0,0,0,0,0,0,0,0,0,0,1,0,0
+COE,ME,4505,Measurement and Analysis with Thermal Science Application,0,0,0,0,0,1,0,0,0,0,0,0,0
+COE,ME,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+COE,MEIE,4701,Capstone Design 1,0,1,0,0,0,0,0,0,0,0,1,0,1
+COE,MEIE,4702,Capstone Design 2,0,1,0,0,0,0,0,0,0,0,1,0,1
+COS,BIOC,4900,Biochemistry Capstone,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,BIOC,4971,Junior/Senior Honors Project 2,0,0,0,0,0,0,0,0,0,0,1,1,1
+COS,BIOC,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,BIOC,4994,Internship,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,BIOL,1111,General Biology 1,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,BIOL,1112,Lab for BIOL 1111,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,BIOL,1113,General Biology 2,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,BIOL,1141,Microbes and Society,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,BIOL,1143,Biology and Society,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,BIOL,1147,The Human Organism,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,BIOL,1149,Biology of Human Reproduction,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,BIOL,1153,Human Genome Editing: Science and Ethics,1,0,0,0,0,0,0,1,0,0,0,0,0
+COS,BIOL,2217,Integrated Anatomy and Physiology 1,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,BIOL,2219,Integrated Anatomy and Physiology 2,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,BIOL,2220,Lab for BIOL 2219,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,BIOL,2299,Inquiries in Biological Sciences,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,BIOL,2301,Genetics and Molecular Biology,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,BIOL,2302,Lab for BIOL 2301,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,BIOL,2309,Biology Project Lab,0,1,0,0,0,1,0,0,0,0,1,0,0
+COS,BIOL,2329,Bioethics,0,0,0,0,0,0,0,1,0,0,0,0,0
+COS,BIOL,3421,Microbiology,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,BIOL,4701,Biology Capstone,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,BIOL,4900,Biology Research Capstone,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,BIOL,4971,Junior/Senior Honors Project 2,0,0,0,0,0,0,0,0,0,0,1,1,1
+COS,BIOL,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,BIOL,4994,Internship,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,BIOL,5587,Comparative Neurobiology,0,1,0,0,0,0,0,0,0,0,0,0,0
+COS,BIOL,5593,Cell and Molecular Biology of Aging,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,BNSC,4900,Behavioral Neuroscience Capstone,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,BNSC,4971,Junior/Senior Honors Project 2,0,0,0,0,0,0,0,0,0,0,1,1,1
+COS,BNSC,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,BNSC,4994,Internship,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,CHEM,1101,General Chemistry for Health Sciences,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,CHEM,1117,Chemical Perspectives on Green Energy: Emerging Technologies and Opportunities,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,CHEM,1151,General Chemistry for Engineers,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,CHEM,1161,General Chemistry for Science Majors,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,CHEM,1211,General Chemistry 1,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,CHEM,1214,General Chemistry 2,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,CHEM,2161,Concepts in Chemistry,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,CHEM,2317,Organic Chemistry 2 for Chemistry Majors,0,1,0,0,0,0,0,0,0,0,0,0,0
+COS,CHEM,2321,Analytical Chemistry,0,0,0,0,0,1,0,0,0,0,1,0,0
+COS,CHEM,3331,Bioanalytical Chemistry,0,0,0,0,0,1,0,0,0,0,1,0,0
+COS,CHEM,3410,Environmental Geochemistry,1,0,0,0,0,1,0,0,0,0,0,0,0
+COS,CHEM,3501,Inorganic Chemistry,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,CHEM,3505,Introduction to Bioinorganic Chemistry,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,CHEM,4750,Senior Research,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,CHEM,4901,Undergraduate Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,CHEM,4970,Junior/Senior Honors Project 1,0,0,0,0,0,0,0,0,0,0,0,0,1
+COS,CHEM,4971,Junior/Senior Honors Project 2,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,CHEM,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,CHEM,4994,Internship,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,CHEM,5622,Lab for CHEM 5621,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,CHEM,5670,Global Biogeochemistry,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,EEMB,1101,Foundations in Ecology and Evolutionary Biology,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,EEMB,1105,Foundations in Ecological and Evolutionary Genomics,1,0,0,0,0,1,0,0,0,0,0,0,0
+COS,EEMB,2302,Ecology,0,0,0,1,0,0,0,0,0,0,1,0,0
+COS,EEMB,2400,Introduction to Evolution,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,EEMB,2700,Marine Biology,1,0,0,0,0,0,0,0,0,0,1,0,0
+COS,EEMB,3455,Ecosystems Ecology,1,0,0,0,0,1,0,0,0,0,0,0,0
+COS,EEMB,3460,Conservation Biology,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,EEMB,3465,Ecological and Conservation Genomics,1,0,0,0,0,1,0,0,0,0,0,0,0
+COS,EEMB,3466,Disease Ecology,1,0,0,0,0,1,0,0,0,0,0,0,0
+COS,EEMB,3475,Wildlife Ecology,1,0,0,0,0,1,0,0,0,0,0,0,0
+COS,EEMB,3700,Desert Ecology,0,0,0,0,0,0,1,0,0,0,0,0,0
+COS,EEMB,4000,Applied Conservation Biology,1,0,0,0,0,0,0,0,0,0,0,1,0
+COS,EEMB,4001,Landscape and Restoration Ecology,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,EEMB,5130,Population Dynamics,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,EEMB,5504,Biology of Corals,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,EEMB,5522,Experimental Design Marine Ecology,0,0,0,0,0,1,0,0,0,0,1,0,0
+COS,EEMB,5528,Marine Conservation Biology,0,0,0,0,0,1,0,1,0,0,0,0,0
+COS,EEMB,5542,Marine Spatial Planning,0,0,0,0,0,0,0,0,0,0,0,0,1
+COS,EEMB,5546,Sustainability of the Land-Sea Interface,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,EESC,3000,"Values, Ethics, and Professionalism in the Sciences",0,0,0,0,0,0,0,1,0,0,0,0,0
+COS,ENVR,1101,Environmental Science,1,0,0,0,0,1,0,0,0,0,0,0,0
+COS,ENVR,1103,Age of Dinosaurs,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,ENVR,1110,Global Climate Change,1,0,0,0,0,1,0,0,0,0,0,0,0
+COS,ENVR,1120,Oceans and Coasts,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,ENVR,1200,Dynamic Earth,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,ENVR,1202,History of Earth and Life,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,ENVR,1400,Foundations in Environmental and Sustainability Sciences,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,ENVR,1501,Lab for ENVR 1500,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,ENVR,2200,Earth's Changing Cycles,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,ENVR,2310,Earth Materials,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,ENVR,2401,Food Justice and Community Development,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,ENVR,2500,Biostatistics,0,0,0,1,0,1,0,0,0,0,0,0,0
+COS,ENVR,2515,Sustainable Development,0,0,0,0,1,0,0,0,0,0,1,0,0
+COS,ENVR,3125,Global Oceanic Change,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,ENVR,3150,Food Security and Sustainability,1,0,0,0,0,0,0,0,0,0,1,0,0
+COS,ENVR,3300,Geographic Information Systems,0,1,0,0,0,1,0,0,0,0,0,0,0
+COS,ENVR,3410,Environmental Geochemistry,1,0,0,0,0,1,0,0,0,0,0,0,0
+COS,ENVR,3418,Geophysics,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,ENVR,4050,Solving Emerging Environmental Challenges through Capstone,0,0,0,0,0,0,0,0,0,0,0,0,1
+COS,ENVR,4500,Applied Hydrogeology,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,ENVR,4505,Wetlands,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,ENVR,4900,Earth and Environmental Science Capstone,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,ENVR,4970,Junior/Senior Honors Project 1,0,0,0,0,0,0,0,0,0,0,0,0,1
+COS,ENVR,4971,Junior/Senior Honors Project 2,0,0,0,0,0,0,0,0,0,0,0,0,1
+COS,ENVR,4996,Experiential Education Directed Study,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,ENVR,4997,Senior Thesis,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,ENVR,5201,Geologic Field Seminar,1,0,0,0,0,1,0,0,0,0,0,1,0
+COS,ENVR,5202,Environmental Science Field Seminar Abroad,1,0,0,0,0,0,0,0,0,0,0,1,0
+COS,ENVR,5210,Environmental Planning,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,ENVR,5260,Geographical Information Systems,0,1,0,0,0,0,0,0,0,0,0,0,0
+COS,ENVR,5500,Advanced Biostatistics,0,0,0,1,0,1,0,0,0,0,0,0,0
+COS,ENVR,5670,Global Biogeochemistry,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,ENVS,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,ENVS,4997,Senior Thesis,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,LING,1150,Introduction to Language and Linguistics,1,0,0,0,1,0,0,0,0,0,0,0,0
+COS,LING,1449,English Now and Then,1,0,1,0,0,0,0,0,0,0,0,0,0
+COS,LING,3150,Field Linguistics,0,0,0,0,0,1,0,0,0,0,0,1,0
+COS,LING,3412,Language and Culture,0,0,1,0,0,0,1,0,0,0,1,0,0
+COS,LING,3420,Phonetics,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,LING,3422,Phonology,0,0,0,1,0,1,0,0,0,0,0,0,0
+COS,LING,3424,Morphology,0,0,0,1,0,1,0,0,0,0,0,0,0
+COS,LING,3442,Sociolinguistics,0,0,0,0,1,0,1,0,0,0,1,0,0
+COS,LING,3450,Syntax,0,0,0,1,0,1,0,0,0,0,0,0,0
+COS,LING,3452,Semantics,0,0,0,1,0,1,0,0,0,0,0,0,0
+COS,LING,3456,Language and Gender,0,0,0,0,1,0,1,0,0,0,1,0,0
+COS,LING,3462,Constructed Languages,0,1,1,0,0,0,0,0,0,0,0,0,0
+COS,LING,4654,Seminar in Linguistics,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,LING,4891,Research Seminar in Linguistics,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,LING,4991,Directed Study Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,LING,4996,Experiential Education Directed Study,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,MATH,1213,Interactive Mathematics,0,0,0,1,0,1,0,0,0,0,0,0,0
+COS,MATH,1215,Mathematical Thinking,0,0,0,1,0,1,0,0,0,0,0,0,0
+COS,MATH,1220,Mathematics of Art,0,1,0,1,0,0,0,0,0,0,0,0,0
+COS,MATH,1231,Calculus for Business and Economics,0,0,0,1,0,0,0,0,0,0,0,0,0
+COS,MATH,1241,Calculus 1,0,0,0,1,0,0,0,0,0,0,0,0,0
+COS,MATH,1242,Calculus 2,0,0,0,1,0,0,0,0,0,0,0,0,0
+COS,MATH,1245,Calculus with Applications,0,0,0,1,0,0,0,0,0,0,0,0,0
+COS,MATH,1251,Calculus and Differential Equations for Biology 1,0,0,0,1,0,0,0,0,0,0,0,0,0
+COS,MATH,1252,Calculus and Differential Equations for Biology 2,0,0,0,1,0,0,0,0,0,0,0,0,0
+COS,MATH,1260,Math Fundamentals for Games,0,0,0,1,0,0,0,0,0,0,0,0,0
+COS,MATH,1340,Intensive Calculus for Engineers,0,0,0,1,0,0,0,0,0,0,0,0,0
+COS,MATH,1341,Calculus 1 for Science and Engineering,0,0,0,1,0,0,0,0,0,0,0,0,0
+COS,MATH,1342,Calculus 2 for Science and Engineering,0,0,0,1,0,0,0,0,0,0,0,0,0
+COS,MATH,2201,History of Mathematics,0,0,1,1,0,0,0,0,0,0,0,0,0
+COS,MATH,2280,Statistics and Software,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,MATH,2321,Calculus 3 for Science and Engineering,0,0,0,1,0,0,0,0,0,0,0,0,0
+COS,MATH,3081,Probability and Statistics,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,MATH,3150,Real Analysis,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,MATH,4020,Research Capstone,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,MATH,4025,Applied Mathematics Capstone,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,MATH,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,MATH,4994,Internship,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,MATH,4996,Experiential Education Directed Study,0,0,0,0,0,0,0,0,0,0,1,1,0
+COS,MATH,5131,Introduction to Mathematical Methods and Modeling,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,NNMD,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,NNMD,5270,Foundations in Nanomedicine: Therapeutics,1,0,0,0,0,0,0,0,0,0,1,0,0
+COS,NNMD,5470,Nano/Biomedical Commercialization: Concept to Market,0,1,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,1111,Introduction to Astronomy,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,1122,"Modern Science: A Voyage into Matter, Life, and Mind",1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,1125,Introduction to Network Science: From the Human Cell to Facebook,1,0,0,0,1,0,0,0,0,0,0,0,0
+COS,PHYS,1130,"Computing, Data, and Science",0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,PHYS,1132,"Energy, Environment, and Society",1,0,0,0,1,0,0,0,0,0,0,0,0
+COS,PHYS,1141,General Physics,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,1145,Physics for Life Sciences 1,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,1146,Lab for PHYS 1145,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,PHYS,1147,Physics for Life Sciences 2,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,1148,Lab for PHYS 1147,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,PHYS,1149,Physics for Pharmacy,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,1150,Lab for PHYS 1149,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,PHYS,1151,Physics for Engineering 1,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,1152,Lab for PHYS 1151,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,PHYS,1155,Physics for Engineering 2,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,1156,Lab for PHYS 1155,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,PHYS,1161,Physics 1,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,1162,Lab for PHYS 1161,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,PHYS,1165,Physics 2,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,1166,Lab for PHYS 1165,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,PHYS,1171,Physics 1 for Bioscience and Bioengineering,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,1172,Lab for PHYS 1171,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,PHYS,1175,Physics 2 for Bioscience and Bioengineering,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,1176,Lab for PHYS 1175,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,PHYS,1191,Foundations of Theoretical Physics,1,0,0,1,0,0,0,0,0,0,0,0,0
+COS,PHYS,1192,Lab for PHYS 1191,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,PHYS,1211,Computational Problem Solving in Physics,1,0,0,0,0,1,0,0,0,0,0,0,0
+COS,PHYS,2303,Modern Physics,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,2371,Electronics,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,2372,Lab for PHYS 2371,0,1,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,3600,Advanced Physics Laboratory,1,0,0,0,0,1,0,0,0,0,1,0,0
+COS,PHYS,3601,Classical Dynamics,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,3602,Electricity and Magnetism 1,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,3603,Electricity and Magnetism 2,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,4115,Quantum Mechanics,1,0,0,1,0,0,0,0,0,0,0,0,0
+COS,PHYS,4305,Thermodynamics and Statistical Mechanics,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,4606,Mathematical and Computational Methods for Physics,0,0,0,1,0,0,0,0,0,0,0,0,0
+COS,PHYS,4621,Biological Physics 1,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,PHYS,4996,Experiential Education Directed Study,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,PHYS,5113,Particle Physics,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,5114,Physics and Applications of Quantum Materials,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,5116,Network Science 1,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,5260,Introduction to Nanoscience and Nanotechnology,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PHYS,5318,Principles of Experimental Physics,1,0,0,0,0,1,0,0,0,0,1,0,1
+COS,PSYC,1101,Foundations of Psychology,1,0,0,0,1,0,0,0,0,0,0,0,0
+COS,PSYC,1208,Psychology and the Law,0,0,0,0,0,0,0,1,0,0,0,0,0
+COS,PSYC,1214,The Moral Mind: The Science Underlying Ethical Decision-Making and Virtuous Character,0,0,0,0,0,0,0,1,0,0,0,0,0
+COS,PSYC,1250,Drugs and Behavior,1,0,0,0,0,0,0,0,0,0,0,0,0
+COS,PSYC,2101,"Love and Hate: Social, Psychological, and Literary Approaches",0,0,1,0,1,0,0,0,0,0,0,0,0
+COS,PSYC,2320,Statistics in Psychological Research,0,0,0,0,0,1,0,0,0,0,0,0,0
+COS,PSYC,2370,Cross-Cultural Psychology,0,0,1,0,0,0,1,0,0,0,0,0,0
+COS,PSYC,4600,Laboratory in Research Design,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,PSYC,4604,Laboratory in Learning and Motivation,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,PSYC,4606,Laboratory in Biological Psychology,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,PSYC,4610,Laboratory in Psycholinguistics,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,PSYC,4612,Laboratory in Cognition,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,PSYC,4614,Laboratory in Social Psychology,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,PSYC,4616,Laboratory in Personality,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,PSYC,4622,Laboratory in Sensation and Perception,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,PSYC,4624,Laboratory in Affective Science,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,PSYC,4626,Laboratory in Life-Span Emotional Development,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,PSYC,4628,Laboratory in Developmental Psychology,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,PSYC,4632,Laboratory in Psychophysiology,0,0,0,0,0,0,0,0,0,0,1,0,0
+COS,PSYC,4656,Seminar in Biological Psychology,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,PSYC,4658,Seminar in Psycholinguistics,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,PSYC,4660,Seminar in Cognition,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,PSYC,4664,Seminar in Social Psychology,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,PSYC,4666,Seminar in Clinical Psychology,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,PSYC,4668,Seminar in Sensation and Perception,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,PSYC,4674,Seminar in Cognitive Neuroscience,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,PSYC,4676,Seminar in Developmental Psychology,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,PSYC,4678,Seminar in Social and Affective Neuroscience,0,0,0,0,0,0,0,0,0,0,1,0,1
+COS,PSYC,4965,Undergraduate Teaching Experience,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,PSYC,4971,Junior/Senior Honors Project 2,0,0,0,0,0,0,0,0,0,0,1,1,1
+COS,PSYC,4991,Directed Study Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+COS,PSYC,4994,Internship in Psychology,0,0,0,0,0,0,0,0,0,0,0,1,0
+CPS,EDUC,1111,Education in the Community,0,0,0,0,1,0,1,0,0,0,0,1,0
+CSSH,AFAM,1101,Introduction to African American and Africana Studies,0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,AFAM,1104,The African-American Experience through Music,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,AFAM,1113,Black Popular Culture,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,AFAM,1225,"Gender, Race, and Medicine",0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,AFAM,2296,Early African-American Literature,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,AFAM,2318,New England Stories: Storytelling and the African American Experience,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,AFAM,2337,African American History Before 1900,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,AFAM,2355,"Race, Identity, Social Change, and Empowerment",0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,AFAM,2455,American Women Writers,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,AFAM,2619,Race and Religion in Film,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,AFAM,2690,Boston in Literature,0,0,1,0,0,0,0,0,0,0,0,1,0
+CSSH,AFAM,3120,"Race, Crime, and Justice",0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,AFAM,3270,"Race, Ethnicity, and Inequality",0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,AFAM,3323,"Race, Inequality, and the Law",0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,AFAM,3404,African American Rhetorical Traditions,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,AFAM,4526,Afro-Asian Relations in the Americas,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,AFAM,4588,Literature in Context,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,AFAM,4700,Capstone,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,AFAM,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,AFCS,2330,Afro-Latin American Studies,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,AFCS,2380,Black Families and Incarceration,0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,AFCS,3210,"Black Abolition Studies: Carcerality, Liberation, and Resistance",0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,AFRS,1101,Introduction to African Studies,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,AFRS,1270,Introduction to Global Health,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,AFRS,2307,Africa Today,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,AFRS,2325,Black Feminist Studies,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,AFRS,2392,African Diaspora,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,AFRS,2410,"Possession, Sacrifice, and Divination in African Diasporic Religions",0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,AFRS,2900,"Swahili, Culture, and Politics in Kenya",0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,AFRS,3305,"Beyond the Binary: Race, Sex, and Science",0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,AFRS,3424,Epidemiology of Pandemic Diseases and Health Disparities in the African Diaspora,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,AFRS,3900,Gender and Black World Literatures,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,AFRS,4939,"Community Health, Culture, and Development in Kenya",0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,ANTH,1101,Peoples and Cultures,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,ANTH,2302,Gender and Sexuality: A Cross-Cultural Perspective,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,ANTH,2305,Global Markets and Local Culture,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,ANTH,2315,Religion and Modernity,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,ANTH,2485,"Environment, Technology, and Society",0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,ANTH,3100,"Gender, Social Justice, and Transnational Activism",0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,ANTH,3410,Ethnographic Field Experience,0,0,0,0,0,1,0,0,0,0,0,1,0
+CSSH,ANTH,3417,Political Anthropology,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,ANTH,3418,Wired/Unwired: Cybercultures and Technopolitics,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,ANTH,3441,Medical Anthropology,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,ANTH,3442,Anthropology of Law,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,ANTH,4100,Making Anthropology Public,0,1,0,0,0,0,0,0,0,0,0,1,0
+CSSH,ANTH,4210,Anthropology of Eastern Europe,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,ANTH,4350,Ethnography of Southeast Asia,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,ANTH,4410,Neoliberalism in Asia,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,ANTH,4500,Latin American Society and Development,0,0,1,0,0,0,0,0,0,0,1,0,0
+CSSH,ANTH,4510,Anthropology of Africa,0,0,1,0,0,0,0,0,0,0,1,0,0
+CSSH,ANTH,4515,Culture and Politics in Modern India,0,0,1,0,1,0,0,0,0,0,1,0,0
+CSSH,ANTH,4520,Chinese Society and Culture,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,ANTH,4600,Senior Seminar,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,ASNS,1150,East Asian Studies,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,ASNS,1246,World War II in the Pacific,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,ASNS,2245,Introduction to Asian American Studies,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,ASNS,3100,Asian American Cinemas,0,0,1,0,0,0,1,0,0,0,0,1,0
+CSSH,ASNS,4900,Asian Studies Capstone Directed Study,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,CLTR,1120,"Introduction to Languages, Literature, and Culture",0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,CLTR,1240,Latin American Film,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,CLTR,1260,Japanese Film,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,CLTR,1280,French Film and Culture,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,CLTR,1500,Modern Chinese History and Culture,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,CLTR,1501,Introduction to French Culture,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,CLTR,1502,Introduction to Arabic Culture,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,CLTR,1503,Introduction to Italian Culture,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,CLTR,1504,Cultural History of Spain,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,CLTR,1505,"Latin American Culture, History, and Politics",0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,CLTR,1700,Introduction to Japanese Pop Culture,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,CLTR,1800,Introduction to Korean Pop Culture,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,CLTR,2001,World Cultures through Film,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,CLTR,3418,Nationalism,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,CLTR,3720,"Literature, Arts, and Poverty in Latin America",0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,CLTR,3805,"Culture, Politics, and Media in Spain",0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,CLTR,4655,Latin American Literature,0,0,1,0,0,0,0,0,0,0,1,0,0
+CSSH,CRIM,1100,Introduction to Criminal Justice,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,CRIM,1110,Criminal Due Process,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,CRIM,1120,Criminology,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,CRIM,1400,Human Trafficking,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,CRIM,1500,"Corruption, Integrity, and Accountability",0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,CRIM,1700,"Crime, Media, and Politics",0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,CRIM,2310,Courts: The Third Branch of Government,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,CRIM,2370,Restorative Justice: Transforming the System,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,CRIM,2380,Black Families and Incarceration,0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,CRIM,3030,Global Criminology,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,CRIM,3110,"Gender, Crime, and Justice",0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,CRIM,3120,"Race, Crime, and Justice",0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,CRIM,3600,Criminal Justice Research Methods,0,0,0,0,0,1,0,0,0,0,1,0,0
+CSSH,CRIM,3700,Analyzing and Using Data on Crime and Justice,0,0,0,0,0,1,0,0,0,0,0,0,0
+CSSH,CRIM,4040,Crime Prevention,0,0,0,0,0,0,0,0,0,0,1,0,0
+CSSH,CRIM,4800,Crime Mapping,1,0,0,0,0,1,0,0,0,0,0,0,0
+CSSH,CRIM,4949,Senior Capstone Seminar,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,CRIM,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,CRIM,4994,Internship,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,CRIM,5201,Global Criminology,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,DEAF,1500,Deaf People in Society,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,DEAF,2500,Deaf History and Culture,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,DEAF,2700,ASL Linguistics,0,0,0,0,0,0,0,0,0,0,1,0,0
+CSSH,ECON,1115,Principles of Macroeconomics,0,0,0,0,1,1,0,0,0,0,0,0,0
+CSSH,ECON,1116,Principles of Microeconomics,0,0,0,0,1,1,0,0,0,0,0,0,0
+CSSH,ECON,1240,Economics of Crime,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,ECON,1260,Contested Issues in the U.S. Economy,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,ECON,1291,Development Economics,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,ECON,1292,Economic History of the Middle East,0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,ECON,2315,Macroeconomic Theory,0,0,0,0,1,1,0,0,0,0,0,0,0
+CSSH,ECON,2316,Microeconomic Theory,1,0,0,0,0,0,0,0,0,0,0,0,0
+CSSH,ECON,2350,Statistics for Economists,0,0,0,1,0,1,0,0,0,0,0,0,0
+CSSH,ECON,2560,Applied Econometrics,0,0,0,0,0,1,0,0,0,0,1,0,0
+CSSH,ECON,3290,History of the Global Economy,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,ECON,3404,International Food Policy,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,ECON,3405,A Critique of Capitalism,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,ECON,3410,Labor Economics,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,ECON,3412,Women’s Labor and the Economy,0,0,0,0,0,1,1,0,0,0,0,0,0
+CSSH,ECON,3420,Urban Economic Issues,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,ECON,3424,Law and Economics,0,0,0,1,1,0,0,0,0,0,0,0,0
+CSSH,ECON,3462,"Bubbles, Busts, and Bailouts: Market and Regulatory Failures in the Financial Crisis",0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,ECON,3470,American Economic History,0,0,0,0,1,0,0,0,0,0,1,0,0
+CSSH,ECON,3490,Public Choice Economics,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,ECON,3520,History of Economic Thought,0,0,0,0,0,0,0,0,0,0,1,0,0
+CSSH,ECON,4681,Information Economics and Game Theory,0,0,0,1,1,0,0,0,0,0,0,0,0
+CSSH,ECON,4692,Senior Economics Seminar,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,ECON,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,ECON,4994,Internship,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,ECON,4996,Experiential Education Directed Study,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,ECON,4997,Senior Economics Thesis,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,ENGL,1140,Grammar: The Architecture of English,0,0,0,1,0,0,0,0,0,0,0,0,0
+CSSH,ENGL,1160,Introduction to Rhetoric,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,ENGL,1300,Introduction to Health and Humanities,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,ENGL,1400,Introduction to Literary Studies,0,0,0,0,0,0,0,0,0,0,1,0,0
+CSSH,ENGL,1410,Introduction to Research on Writing,0,0,0,0,0,0,0,0,0,0,1,0,0
+CSSH,ENGL,1450,Reading and Writing in the Digital Age,0,0,1,0,0,1,0,0,0,0,1,0,0
+CSSH,ENGL,1502,American Literature to 1865,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,ENGL,1600,Introduction to Shakespeare,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,ENGL,1700,Global Literatures 1,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,ENGL,1701,Global Literatures 2,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,ENGL,2296,Early African-American Literature,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,ENGL,2301,The Graphic Novel,0,1,1,0,0,0,0,0,0,0,0,0,0
+CSSH,ENGL,2330,The American Renaissance,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,ENGL,2440,The Modern Bestseller,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,ENGL,2450,Postcolonial Literature,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,ENGL,2451,Postcolonial Women Writers,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,ENGL,2455,American Women Writers,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,ENGL,2470,Asian-American Literature,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,ENGL,2520,Science Fiction,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,ENGL,2530,Fantasy Literature,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,ENGL,2600,Irish Literary Culture (Abroad),0,0,1,0,0,0,0,0,0,0,0,1,0
+CSSH,ENGL,2620,What Is Nature?,0,0,1,0,0,0,0,0,0,0,0,1,0
+CSSH,ENGL,2650,"Science Writing: Origins, Ethics, and Emerging Genres",0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,ENGL,2690,Boston in Literature,0,0,1,0,0,0,0,0,0,0,0,1,0
+CSSH,ENGL,2695,Travel and Place-Based Writing,0,1,1,0,0,0,0,0,0,0,0,0,0
+CSSH,ENGL,2700,Creative Writing,0,1,0,0,0,0,0,0,0,0,0,0,0
+CSSH,ENGL,2710,Style and Editing,0,1,0,0,0,0,0,0,0,0,1,0,0
+CSSH,ENGL,2730,Digital Writing,0,1,0,0,0,0,0,0,0,0,1,0,0
+CSSH,ENGL,2740,Writing and Community Engagement,0,0,1,0,0,0,0,0,0,0,1,1,0
+CSSH,ENGL,2760,Writing in Global Contexts,0,0,1,0,0,0,1,0,0,0,1,0,0
+CSSH,ENGL,2770,Writing to Heal,0,1,0,0,0,0,0,0,0,0,1,0,0
+CSSH,ENGL,2780,Visual Writing,0,1,1,0,0,0,0,0,0,0,1,0,0
+CSSH,ENGL,2850,Writing for Social Media: Theory and Practice,0,1,1,0,0,0,0,0,0,0,1,0,0
+CSSH,ENGL,3101,Early Literatures,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,ENGL,3325,Rhetoric of Law,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,ENGL,3340,Technologies of Text,0,1,0,0,0,1,0,0,0,0,0,1,0
+CSSH,ENGL,3370,Writing Cultures,0,0,1,0,0,0,0,0,0,0,1,1,0
+CSSH,ENGL,3375,Writing Boston,0,1,1,0,0,0,0,0,0,0,1,1,0
+CSSH,ENGL,3376,Creative Nonfiction,0,1,0,0,0,0,0,0,0,0,1,0,0
+CSSH,ENGL,3377,Poetry Workshop,0,1,0,0,0,0,0,0,0,0,0,0,0
+CSSH,ENGL,3378,Fiction Workshop,0,1,0,0,0,0,0,0,0,0,0,0,0
+CSSH,ENGL,3380,Writing Seminar,0,1,0,0,0,0,0,0,0,0,1,0,0
+CSSH,ENGL,3381,The Practice and Theory of Teaching Writing,0,0,0,0,0,0,0,0,0,0,1,1,0
+CSSH,ENGL,3384,The Writer’s Marketplace,0,1,0,0,0,0,0,0,0,0,1,0,0
+CSSH,ENGL,3400,Opening the Archive,0,0,1,0,0,0,0,0,0,0,1,1,0
+CSSH,ENGL,3404,African American Rhetorical Traditions,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,ENGL,3487,Film and Text (Abroad),0,0,1,0,0,0,0,0,0,0,0,1,0
+CSSH,ENGL,3685,Modern and Contemporary Jewish Literature,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,ENGL,3700,Narrative Medicine,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,ENGL,3900,Gender and Black World Literatures,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,ENGL,4710,Capstone Seminar,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,ENGL,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,ENGW,1102,First-Year Writing for Multilingual Writers,0,0,0,0,0,0,0,0,1,0,0,0,0
+CSSH,ENGW,1111,First-Year Writing,0,0,0,0,0,0,0,0,1,0,0,0,0
+CSSH,ENGW,1113,First-Year Writing Innovation Seminar,0,0,0,0,0,0,0,0,1,0,0,0,0
+CSSH,ENGW,1114,First-Year Writing with Service-Learning,0,0,0,0,0,0,0,0,1,0,0,0,0
+CSSH,ENGW,3302,Advanced Writing in the Technical Professions,0,0,0,0,0,0,0,0,0,1,0,0,0
+CSSH,ENGW,3303,Advanced Writing in the Environmental Professions,0,0,0,0,0,0,0,0,0,1,0,0,0
+CSSH,ENGW,3304,Advanced Writing in the Business Administration Professions,0,0,0,0,0,0,0,0,0,1,0,0,0
+CSSH,ENGW,3305,Advanced Writing in the Criminal Justice Professions,0,0,0,0,0,0,0,0,0,1,0,0,0
+CSSH,ENGW,3306,Advanced Writing in the Health Professions,0,0,0,0,0,0,0,0,0,1,0,0,0
+CSSH,ENGW,3307,Advanced Writing in the Sciences,0,0,0,0,0,0,0,0,0,1,0,0,0
+CSSH,ENGW,3308,Advanced Writing in the Social Sciences,0,0,0,0,0,0,0,0,0,1,0,0,0
+CSSH,ENGW,3309,Advanced Writing in the Humanities,0,0,0,0,0,0,0,0,0,1,0,0,0
+CSSH,ENGW,3311,Advanced Writing for Prelaw,0,0,0,0,0,0,0,0,0,1,0,0,0
+CSSH,ENGW,3314,"Advanced Writing in the Arts, Media, and Design",0,0,0,0,0,0,0,0,0,1,0,0,0
+CSSH,ENGW,3315,Interdisciplinary Advanced Writing in the Disciplines,0,0,0,0,0,0,0,0,0,1,0,0,0
+CSSH,HIST,1100,Law and History,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,HIST,1105,Introduction to Trans Studies,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,HIST,1120,"Public History, Public Memory",0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,HIST,1130,Introduction to the History of the United States,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,HIST,1150,East Asian Studies,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,HIST,1170,"Europe: Empires, Revolutions, Wars, and Their Aftermath",0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,HIST,1187,Introduction to Latin American History,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,HIST,1201,First-Year Seminar,0,0,0,0,0,0,0,0,0,0,1,0,0
+CSSH,HIST,1206,"Drug Trade and Drug War: History, Security, Culture",0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,HIST,1215,Origins of Today: Historical Roots of Contemporary Issues,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,HIST,1218,"Pirates, Planters, and Patriots: Making the Americas, 1492–1804",0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,HIST,1219,History of Global Pandemics,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,HIST,1225,"Gender, Race, and Medicine",0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,HIST,1232,History of Boston,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,HIST,1246,World War II in the Pacific,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,HIST,1252,Japanese Literature and Culture,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,HIST,1286,History of the Soviet Union,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,HIST,1290,Modern Middle East,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,HIST,1294,History of the Jews in the Modern World,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,HIST,1300,Introduction to Health and Humanities,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,HIST,1357,"History of Information in the United States: Media, Technology, Law",0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,HIST,1389,History of Espionage 1: Antiquity to World War II,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,HIST,1390,History of Espionage 2: Cold War Spies,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,HIST,1500,Modern Chinese History and Culture,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,HIST,2000,Native American Resistance: Past and Present,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,HIST,2011,Capitalism and Business: A Global History,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,HIST,2025,Latin American History through Film,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,HIST,2211,The World Since 1945,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,HIST,2217,"The Global Far-Right since 1945: Politics, Culture, Violence",0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,HIST,2220,History of Technology,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,HIST,2280,"Hitler, Germany, and the Holocaust",0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,HIST,2282,The Holocaust and Comparative Genocide,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,HIST,2285,America and the Holocaust,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,HIST,2302,Historical Writing,0,0,0,0,0,0,0,0,0,1,0,0,0
+CSSH,HIST,2303,Gender and Reproductive Justice,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,HIST,2308,"Law, Justice, and Society in Modern China",0,0,0,0,1,0,0,1,0,0,1,0,0
+CSSH,HIST,2311,Colonialism/Imperialism,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,HIST,2318,New England Stories: Storytelling and the African American Experience,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,HIST,2337,African American History Before 1900,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,HIST,2351,Modern Japan,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,HIST,2373,Gender and Sexuality in World History,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,HIST,2376,Britain and the British Empire,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,HIST,2390,Africa and the World in Early Times,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,HIST,2430,Digital Histories of Ethnic Boston,0,0,0,0,0,1,0,0,0,0,0,0,0
+CSSH,HIST,3305,"Beyond the Binary: Race, Sex, and Science",0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,HIST,3330,The Global Cold War,0,0,0,0,1,0,1,0,0,0,1,0,0
+CSSH,HIST,3334,Assassinations in World History,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,HIST,3335,History of Modern Terrorism,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,HIST,3350,Leaders and Leadership in History,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,HIST,4701,Capstone Seminar,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,HIST,4970,Junior/Senior Honors Project 1,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,HIST,4971,Junior/Senior Honors Project 2,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,HIST,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,HIST,4994,Internship in World History,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,HIST,5240,Feminist Resistance,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,HUSV,1101,Social Change and Human Services,0,0,0,0,1,0,0,0,0,0,0,1,0
+CSSH,HUSV,2300,Counseling in Human Services,0,0,0,0,0,0,1,0,0,0,1,0,0
+CSSH,HUSV,2320,Techniques in Individual and Group Counseling,0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,HUSV,2340,Mindfulness in Mental Health,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,HUSV,2355,"Race, Identity, Social Change, and Empowerment",0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,HUSV,2370,Restorative Justice: Transforming the System,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,HUSV,2401,Food Justice and Community Development,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,HUSV,2500,Science of Play,0,0,0,0,1,0,0,0,0,0,0,1,0
+CSSH,HUSV,2800,Sexual Orientation and Gender Expression,0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,HUSV,2960,Intercultural Studies through Human Services,0,0,0,0,1,0,1,0,0,0,0,1,0
+CSSH,HUSV,2970,Research Methods for Human Services,0,0,0,0,0,1,0,0,0,0,0,0,0
+CSSH,HUSV,3520,Child Intervention and Treatment,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,HUSV,3570,"The Nonprofit Sector, Philanthropy, and Social Change",0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,HUSV,3590,Nonprofit Communications,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,HUSV,3900,Social Policy,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,HUSV,4700,Senior Seminar in Human Services,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,HUSV,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,HUSV,4994,Human Services Internship,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,INSH,1102,Food in Contemporary Context,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,INSH,1300,Introduction to Health and Humanities,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,INSH,1500,Digital Methods for Social Sciences and Humanities,1,0,0,0,0,1,0,0,0,0,0,0,0
+CSSH,INSH,1600,Cultures of London - Abroad,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,INSH,2101,"Love and Hate: Social, Psychological, and Literary Approaches",0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,INSH,2102,"Bostonography: The City through Data, Texts, Maps, and Networks",0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,INSH,2300,"Culture, Technology, and the Future of Health",0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,INSH,3101,Research Methods in the Social Sciences,0,0,0,0,0,1,0,0,0,0,1,0,0
+CSSH,INSH,3102,Introduction to Statistics in the Social Sciences,0,0,0,1,0,1,0,0,0,0,0,0,0
+CSSH,INTL,1101,Globalization and International Affairs,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,INTL,1150,The Mediterranean World: An Overview,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,INTL,1160,Middle East Studies,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,INTL,2200,America and the Middle East,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,INTL,2464,Natural Resources and Sustainable Development,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,INTL,2480,Women and World Politics,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,INTL,2500,Race and Global Human Mobility,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,INTL,3150,Global Philanthropy,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,INTL,3400,International Conflict and Negotiation,0,0,0,0,1,0,0,0,0,0,1,0,0
+CSSH,INTL,3430,"Revolution, Civil War, and Insurrection",0,0,0,0,1,0,0,0,0,0,1,0,0
+CSSH,INTL,3450,"Security, Culture, Power",0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,INTL,3520,Global Political Economy,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,INTL,4350,Ethnography of Southeast Asia,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,INTL,4500,Latin American Society and Development,0,0,1,0,0,0,0,0,0,0,1,0,0
+CSSH,INTL,4510,Anthropology of Africa,0,0,1,0,0,0,0,0,0,0,1,0,0
+CSSH,INTL,4520,Chinese Society and Culture,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,INTL,4700,Senior Capstone Seminar in International Affairs,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,INTL,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,INTL,4994,Internship,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,INTL,5100,Climate and Development,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,INTP,3550,Interpreting Scripted Texts,0,0,0,0,0,0,0,0,0,0,1,0,0
+CSSH,INTP,3970,Research Methods for Interpreting and Translation,0,0,0,0,0,1,0,0,0,0,1,0,0
+CSSH,INTP,4650,Ethical Decision Making,0,0,0,0,0,0,0,1,0,0,0,0,0
+CSSH,INTP,4940,Interpreting Research Capstone,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,INTP,4995,Interpreting Practicum,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,ITLN,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,JWSS,1285,Jewish Religion and Culture,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,JWSS,1294,History of the Jews in the Modern World,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,JWSS,2259,"Sex, Gender, and Judaism",0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,JWSS,2282,The Holocaust and Comparative Genocide,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,JWSS,2285,America and the Holocaust,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,JWSS,2610,Contemporary Israeli Literature and Art Abroad,0,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,JWSS,3685,Modern and Contemporary Jewish Literature,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,LACS,1220,"Latino, Latin American, and Caribbean Studies",0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,LPSC,3307,Understanding the Modern Supreme Court,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,NETS,5116,Network Science 1,1,0,0,0,0,0,0,0,0,0,0,0,0
+CSSH,PHIL,1101,Introduction to Philosophy,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,1102,Introduction to Contemporary Moral Issues,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,1105,Science and Pseudoscience,1,0,1,0,0,0,0,0,0,0,0,0,0
+CSSH,PHIL,1106,Ethics and Politics of Work,0,0,0,0,0,0,0,1,0,0,0,0,0
+CSSH,PHIL,1110,Introduction to Religious Studies,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,PHIL,1111,Introduction to World Religions,0,0,0,0,0,0,1,1,0,0,0,0,0
+CSSH,PHIL,1112,Debating Ethical Controversies,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,1115,Introduction to Logic,0,0,0,1,0,1,0,0,0,0,0,0,0
+CSSH,PHIL,1120,Understanding the Bible,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,PHIL,1130,Comparative Ethics,0,0,0,0,0,0,1,1,0,0,0,0,0
+CSSH,PHIL,1133,Selling Spirituality,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,PHIL,1145,Technology and Human Values,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,1160,Introduction to Economic Justice,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,1162,Ethics and Philosophy through Sport,0,0,0,0,0,1,0,1,0,0,0,0,0
+CSSH,PHIL,1165,Moral and Social Problems in Healthcare,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,1170,"Business, Ethics, and Human Rights",0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,1180,Environmental Ethics,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,1185,The Ethics of Food,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,1195,Research Ethics,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,1220,The Meaning of Death,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,PHIL,1260,Apocalypticism in Film,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,PHIL,1271,"Sex in Judaism, Christianity, and Islam",0,0,0,0,0,0,1,1,0,0,0,0,0
+CSSH,PHIL,1275,"Hinduism, Buddhism, and Beyond",0,0,1,0,0,0,0,1,0,0,0,0,0
+CSSH,PHIL,1280,"Islam: Rituals, Traditions, and Debates",0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,PHIL,1285,Jewish Religion and Culture,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,PHIL,1290,Chinese Philosophy and Religion,0,0,1,0,0,0,0,1,0,0,0,0,0
+CSSH,PHIL,1300,Knowledge in a Digital World,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,1666,The Problem of Evil in Film,0,0,0,0,0,0,1,1,0,0,0,0,0
+CSSH,PHIL,1667,Science Fiction and Film: Moral Dilemmas and Ethical Analysis,0,0,0,0,0,0,1,1,0,0,0,0,0
+CSSH,PHIL,2001,Ethics and Evolutionary Games,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,2016,The Philosophy and Ethics of Lying and Deception,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,2143,Philosophy for Children,0,1,0,0,0,0,0,0,0,0,0,0,0
+CSSH,PHIL,2155,Human Rights,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,2230,Music and Religion,0,0,1,0,0,0,1,0,0,0,0,1,0
+CSSH,PHIL,2259,"Sex, Gender, and Judaism",0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,PHIL,2301,Philosophical Problems of Law and Justice,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,2302,Philosophical Problems of War and Peace,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,2303,Social and Political Philosophy,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,2325,Ancient Philosophy and Political Thought,0,0,1,0,0,0,0,1,0,0,1,0,0
+CSSH,PHIL,2330,Modern Philosophy,0,0,1,0,1,0,0,0,0,0,1,0,0
+CSSH,PHIL,2390,Cults and Sects,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,PHIL,2395,Japanese Buddhism,0,0,1,0,0,0,0,1,0,0,1,0,0
+CSSH,PHIL,2410,"Possession, Sacrifice, and Divination in African Diasporic Religions",0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,PHIL,2492,Indigenous Philosophy,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,PHIL,2619,Race and Religion in Film,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,PHIL,2991,Research Practicum,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,PHIL,3000,"Interdisciplinary Methods for Politics, Philosophy, and Economics",0,0,0,0,0,0,0,0,0,0,1,1,0
+CSSH,PHIL,3050,Information and Uncertainty,0,0,0,1,0,1,0,0,0,0,0,0,0
+CSSH,PHIL,3100,The Religious Worlds of Boston: Faith and Devotion in Urban Life,0,0,1,0,1,0,0,0,0,0,0,1,0
+CSSH,PHIL,3305,Philosophy of Emotions,0,0,0,0,0,0,0,1,0,0,0,0,0
+CSSH,PHIL,3360,Scientific Approaches to Philosophy,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,3500,"Sexuality, Gender, and the Law",0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,PHIL,3822,Philosophy of Race and Racism,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,PHIL,4500,Theory of Knowledge,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,PHIL,4510,Philosophy of Science,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,PHIL,4535,Philosophy of Mind,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,PHIL,4550,Philosophy of Economics,0,0,0,0,1,0,0,0,0,0,1,0,1
+CSSH,PHIL,4901,Topics in Philosophy Seminar,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,PHIL,4903,Seminar in Religion,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,PHIL,4994,Internship,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,PHIL,5001,Global Justice,0,0,0,0,1,0,0,1,0,0,1,0,1
+CSSH,PHIL,5002,Ethics and Public Policy,0,0,0,0,0,0,0,0,0,0,0,0,1
+CSSH,POLS,1150,American Government,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,POLS,1160,International Relations,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,POLS,2282,The Holocaust and Comparative Genocide,0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,POLS,2325,Ancient Philosophy and Political Thought,0,0,1,0,0,0,0,1,0,0,1,0,0
+CSSH,POLS,2333,Politics and Film,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,POLS,2356,Democratic Erosion,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,POLS,2358,Current Issues in Cities and Suburbs,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,POLS,2385,U.S. Health and Welfare Policy,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,POLS,2395,Environmental Politics and Policy,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,POLS,2399,Research Methods in Political Science,0,0,0,0,0,0,0,0,0,0,1,0,0
+CSSH,POLS,2400,Quantitative Techniques,0,0,0,0,0,1,0,0,0,0,0,0,0
+CSSH,POLS,3100,"Gender, Social Justice, and Transnational Activism",0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,POLS,3323,"Race, Inequality, and the Law",0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,POLS,3418,Nationalism,0,0,1,0,1,0,0,0,0,0,0,0,0
+CSSH,POLS,3430,"Revolution, Civil War, and Insurrection",0,0,0,0,1,0,0,0,0,0,1,0,0
+CSSH,POLS,3435,Politics and Governance of Europe and the European Union,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,POLS,3465,Government and Politics in the Middle East,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,POLS,3500,"Sexuality, Gender, and the Law",0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,POLS,4500,U.S. Constitutional Law,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,POLS,4701,Political Science Senior Capstone,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,POLS,4703,Senior Thesis,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,POLS,4910,Model United Nations,0,0,0,0,0,0,1,0,0,0,0,1,0
+CSSH,POLS,4915,Model Arab League,0,0,0,0,1,0,0,0,0,0,0,1,0
+CSSH,POLS,4918,Model NATO,0,0,0,0,1,0,0,0,0,0,0,1,0
+CSSH,POLS,4937,Dialogue of Civilizations: Government and Politics Abroad,0,0,0,0,1,0,0,0,0,0,0,1,0
+CSSH,POLS,4938,Dialogue of Civilizations: International Politics Abroad,0,0,0,0,1,0,0,0,0,0,0,1,0
+CSSH,POLS,4942,Internship in Politics,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,POLS,4970,Junior/Senior Honors Project 1,0,0,0,0,0,0,0,0,0,0,1,0,0
+CSSH,POLS,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,POLS,4996,Experiential Education Directed Study,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,PPUA,5100,Climate and Development,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,PPUA,5264,"Energy Democracy and Climate Resilience: Technology, Policy, and Social Change",0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,PPUA,5270,Food Systems and Public Policy,0,0,0,0,1,0,0,0,0,0,1,0,0
+CSSH,SOCL,1101,Introduction to Sociology,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,SOCL,1102,"Sex, Gender, and Popular Culture",0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,SOCL,1235,Social Psychology,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,SOCL,1246,Environment and Society,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,SOCL,1260,Sociology of Gender,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,SOCL,1280,The Twenty-First-Century Workplace,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,SOCL,1295,Drugs and Society,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,SOCL,2225,Sociology of Disability,0,0,0,0,0,0,1,1,0,0,0,0,0
+CSSH,SOCL,2303,Gender and Reproductive Justice,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,SOCL,2321,Research Methods in Sociology,0,0,0,0,0,1,0,0,0,0,0,0,0
+CSSH,SOCL,2355,"Race, Identity, Social Change, and Empowerment",0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,SOCL,2358,Current Issues in Cities and Suburbs,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,SOCL,2359,Current Issues in Cities and Suburbs Abroad,0,0,0,0,1,0,1,0,0,0,0,1,0
+CSSH,SOCL,2485,"Environment, Technology, and Society",0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,SOCL,2500,Race and Global Human Mobility,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,SOCL,3241,Violence and Society,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,SOCL,3270,"Race, Ethnicity, and Inequality",0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,SOCL,3300,Social Theory,0,0,0,0,0,0,0,0,0,0,1,0,0
+CSSH,SOCL,3407,"The Immigrant Experience: Ethnicity, Race, and Inequality in America",0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,SOCL,3441,Sociology of Health and Illness,0,0,0,0,1,0,1,0,0,0,1,0,0
+CSSH,SOCL,3450,"Class, Power, and Social Change",0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,SOCL,3468,Social Movements,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,SOCL,4520,"Race, Class, and Gender",0,0,0,0,0,0,0,0,0,0,1,0,0
+CSSH,SOCL,4522,Environmental Justice,0,0,0,0,1,0,0,0,0,0,1,0,0
+CSSH,SOCL,4526,Afro-Asian Relations in the Americas,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,SOCL,4528,Computers and Society,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,SOCL,4600,Senior Seminar,0,0,0,0,0,0,0,0,0,0,1,0,1
+CSSH,SOCL,4991,Research,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,SOCL,4994,Internship,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,SOCL,5240,Feminist Resistance,0,0,0,0,1,0,0,0,0,0,0,0,0
+CSSH,SPNS,3102,Advanced Spanish 2: Hispanic and Latinx Identity,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,SPNS,3502,Authentic Spanish Grammar,0,0,0,0,0,0,0,0,0,0,1,0,0
+CSSH,WMNS,1101,"Sex, Gender, and Popular Culture",0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,WMNS,1103,"Introduction to Women’s, Gender, and Sexuality Studies",0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,WMNS,1105,Introduction to Trans Studies,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,WMNS,1225,"Gender, Race, and Medicine",0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,WMNS,1260,Sociology of Gender,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,WMNS,1271,"Sex in Judaism, Christianity, and Islam",0,0,0,0,0,0,1,1,0,0,0,0,0
+CSSH,WMNS,2259,"Sex, Gender, and Judaism",0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,WMNS,2302,Gender and Sexuality: A Cross-Cultural Perspective,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,WMNS,2303,Gender and Reproductive Justice,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,WMNS,2304,Communication and Gender,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,WMNS,2325,Black Feminist Studies,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,WMNS,2373,Gender and Sexuality in World History,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,WMNS,2451,Postcolonial Women Writers,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,WMNS,2455,American Women Writers,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,WMNS,2480,Women and World Politics,0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,WMNS,2501,Breaking the Glass Ceiling: Women in Theatre,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,WMNS,2505,Digital Feminisms,0,1,1,0,0,0,0,0,0,0,1,0,0
+CSSH,WMNS,2800,Sexual Orientation and Gender Expression,0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,WMNS,3100,"Gender, Social Justice, and Transnational Activism",0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,WMNS,3110,"Gender, Crime, and Justice",0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,WMNS,3200,Queer Theatre and Performance,0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,WMNS,3305,"Beyond the Binary: Race, Sex, and Science",0,0,0,0,1,0,1,0,0,0,0,0,0
+CSSH,WMNS,3392,Gender and Film,0,0,0,0,0,0,1,0,0,0,0,0,0
+CSSH,WMNS,3500,"Sexuality, Gender, and the Law",0,0,0,0,1,0,0,1,0,0,0,0,0
+CSSH,WMNS,3900,Gender and Black World Literatures,0,0,1,0,0,0,1,0,0,0,0,0,0
+CSSH,WMNS,4520,"Race, Class, and Gender",0,0,0,0,0,0,0,0,0,0,1,0,0
+CSSH,WMNS,4994,Internship,0,0,0,0,0,0,0,0,0,0,0,1,0
+CSSH,WMNS,5240,Feminist Resistance,0,0,0,0,1,0,0,0,0,0,0,0,0
+DMSB,ENTR,3306,Global Entrepreneurship,0,1,0,0,0,0,0,0,0,0,0,0,0
+DMSB,ENTR,4510,Management Consulting Abroad,0,1,0,0,0,0,0,0,0,0,0,1,0
+DMSB,INNO,2301,Innovation!,0,1,0,0,0,0,0,0,0,0,0,0,0
+DMSB,INNO,3308,Business Economic History of South Africa,0,0,0,0,1,0,0,0,0,0,0,0,0
+DMSB,INTB,1202,Becoming a Global Manager,0,0,1,0,0,0,0,1,0,0,0,0,0
+DMSB,INTB,1203,International Business and Global Social Responsibility,0,0,1,0,0,0,0,1,0,0,0,0,0
+DMSB,INTB,1209,International Business and Global Social Responsibility,0,0,1,0,0,0,0,1,0,0,0,0,0
+DMSB,INTB,4202,Executing Global Strategy,0,0,0,0,0,0,0,0,0,0,1,0,1
+DMSB,MGSC,2301,Business Statistics,0,0,0,0,0,1,0,0,0,0,0,0,0
+DMSB,MKTG,2301,Marketing and Society,0,0,0,0,1,0,0,0,0,0,0,0,0
+DMSB,ORGB,3201,Organizational Behavior,0,0,0,0,0,0,0,0,0,0,1,0,0
+DMSB,STRT,4501,Strategy in Action,0,0,0,0,0,0,0,0,0,0,1,0,1
+LAW,LAW,6101,Constitutional Law,0,0,0,0,1,0,0,0,0,0,0,0,0
+PROV,COOP,3945,Co-op Work Experience,0,0,0,0,0,0,0,0,0,0,0,1,0
+PROV,COOP,3946,Co-op Work Experience--Half Time,0,0,0,0,0,0,0,0,0,0,0,1,0
+PROV,COOP,3947,Co-op Work Experience Abroad--Half Time,0,0,0,0,0,0,0,0,0,0,0,1,0
+PROV,COOP,3948,Co-op Work Experience Abroad,0,0,0,0,0,0,0,0,0,0,0,1,0
+PROV,DGTR,1101,Mathematical Structures and Methods,0,0,0,1,0,0,0,0,0,0,0,0,0
+PROV,DGTR,2500,Digital Fluency in the AI-Enabled Enterprise,1,0,0,0,0,0,0,0,0,0,0,0,0
+PROV,DGTR,3000,Innovation and Design in Customer Experience,0,1,0,0,0,0,0,0,0,0,0,0,0
+PROV,DGTR,4910,Experiential Capstone,0,0,0,0,0,0,0,0,0,0,1,0,1
+PROV,INPR,2255,Experiential Entrepreneurship,0,1,0,0,0,0,0,0,0,0,0,0,0
