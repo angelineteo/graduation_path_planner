@@ -1,0 +1,74 @@
+import sys
+import pandas as pd
+import numpy as np
+import random
+from collections import defaultdict
+
+
+print("Welcome to the Academic Plan Generator!")
+print("Let's create your personalized academic plan.")
+print("What's your concentration?\n")
+
+concentration = input()
+
+# Function to parse data from a DataFrame
+def parse_data(df, concentration):
+    # Filter classes for the specified concentration and required courses
+    classes = df[(df['Concentration'] == concentration) | (df['Concentration'] == 'Required')]
+    prereqs = df[['Prereq code', 'Class Code']].dropna().drop_duplicates()
+
+    class_credits = {row['Class Code']: row['Credit Hours'] for _, row in classes.iterrows()}
+    class_sections = {row['Class Code']: [] for _, row in classes.iterrows()}
+    for _, row in classes.iterrows():
+        class_sections[row['Class Code']].append((row['Class ID'], row['RMP Difficulty'], row['Spots Available']))
+
+    return class_credits, class_sections, {row['Class Code']: row['Prereq code'] for _, row in prereqs.iterrows()}
+
+# Function to choose the best section based on difficulty and available spots
+def choose_best_section(sections):
+    # Assuming lower difficulty and more spots are better
+    best_section = min(sections, key=lambda x: (x[1], -x[2]))
+    return best_section
+
+# Function to generate a 4-year academic plan
+def generate_academic_plan(class_credits, class_sections, prereqs):
+    TOTAL_SEMESTERS = 8
+    MAX_CREDITS_PER_SEMESTER = 17
+
+    academic_plan = [[] for _ in range(TOTAL_SEMESTERS)]
+    completed_courses = set()
+
+    def prereqs_met(course, semester):
+        prereq = prereqs.get(course)
+        if not prereq:
+            return True
+        for past_semester in range(semester):
+            if any(prereq == c for c, _ in academic_plan[past_semester]):
+                return True
+        return False
+
+    def try_add_course(course, semester):
+        if course in completed_courses:
+            return False
+        if course in class_credits and class_credits[course] + sum(class_credits[c] for c, _ in academic_plan[semester]) <= MAX_CREDITS_PER_SEMESTER and prereqs_met(course, semester):
+            chosen_section = choose_best_section(class_sections[course])
+            academic_plan[semester].append((course, chosen_section))  # Append course with section details
+            completed_courses.add(course)
+            return True
+        return False
+
+    for semester in range(TOTAL_SEMESTERS):
+        for course in class_sections:
+            if try_add_course(course, semester):
+                continue
+
+    return academic_plan
+
+# Hardcoding the concentration as 'Systems' and running the script
+user_concentration = concentration
+excel_file_path = "FinalProj/Final_Spots_Updated_Modified_MockData.xlsx"
+df_sections = pd.read_excel(excel_file_path)
+
+class_credits, class_sections, prereqs = parse_data(df_sections, user_concentration)
+academic_plan = generate_academic_plan(class_credits, class_sections, prereqs)
+print(academic_plan)
