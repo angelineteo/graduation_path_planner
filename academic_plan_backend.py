@@ -19,7 +19,7 @@ class AcademicPlanGenerator:
         self.class_credits = {row['Class Code']: row['Credit Hours'] for _, row in classes.iterrows()}
         self.class_sections = {row['Class Code']: [] for _, row in classes.iterrows()}
         for _, row in classes.iterrows():
-            self.class_sections[row['Class Code']].append((row['Class ID'], row['RMP Difficulty'], row['Spots Available']))
+            self.class_sections[row['Class Code']].append((row['Class ID'], row['RMP Difficulty'], row['Spots Available'], row['Rate my Professor Ratings']))
         
         self.prereqs = {row['Class Code']: row['Prereq code'] for _, row in prereqs.iterrows()}
 
@@ -31,7 +31,8 @@ class AcademicPlanGenerator:
         professor_weight = professor_preference / 20
 
         # Determine the best section based on weighted criteria
-        best_section = min(sections, key=lambda x: (-x[2] * size_weight + x[1] * difficulty_weight - x[0] * professor_weight))
+        best_section = min(sections, key=lambda x: (-x[3] * size_weight + x[2] * difficulty_weight + x[1] * professor_weight))
+
         return best_section
 
     def get_concentrations(self):
@@ -56,7 +57,7 @@ class AcademicPlanGenerator:
             if not prereq:
                 return True
             for past_semester in range(semester):
-                if any(prereq == c for c, _ in academic_plan[past_semester]):
+               if any(prereq == course_detail['Course'] for course_detail in academic_plan[past_semester]):
                     return True
             return False
 
@@ -64,9 +65,22 @@ class AcademicPlanGenerator:
             for course in self.class_sections:
                 if course in completed_courses:
                     continue
-                if course in self.class_credits and self.class_credits[course] + sum(self.class_credits[c] for c, _ in academic_plan[semester]) <= MAX_CREDITS_PER_SEMESTER and prereqs_met(course, semester):
+                if course in self.class_credits and self.class_credits[course] + sum(self.class_credits[course_detail['Course']] for course_detail in academic_plan[semester]) <= MAX_CREDITS_PER_SEMESTER and prereqs_met(course, semester):
                     chosen_section = self.choose_best_section(self.class_sections[course], size_preference, difficulty_preference, professor_preference)
-                academic_plan[semester].append((course, chosen_section))
-                completed_courses.add(course)
+                    
+                    # Extract details from chosen_section
+                    class_id, rmp_difficulty, spots_available, rmp_rating = chosen_section
+                    course_concentration = self.df_sections[self.df_sections['Class ID'] == class_id]['Concentration'].iloc[0]
+                    
+                    # Append detailed information
+                    academic_plan[semester].append({
+                        'Course': course,
+                        'Class ID': class_id,
+                        'RMP Difficulty': rmp_difficulty,
+                        'Class Size': spots_available,
+                        'RMP Rating': rmp_rating,
+                        'Concentration': course_concentration
+                    })
+                    completed_courses.add(course)
 
         return academic_plan

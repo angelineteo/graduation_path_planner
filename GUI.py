@@ -1,13 +1,13 @@
 import pandas as pd
 import customtkinter as ctk
-import tkinter
+import tkinter as tk
 from academic_plan_backend import AcademicPlanGenerator
 
 class AcademicPlanApp(ctk.CTk):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.title("Academic Plan Generator")
-        self.geometry("600x400")
+        self.geometry("850x400")
 
         self.plan_generator = AcademicPlanGenerator("graduation_path_planner/Final_Spots_Updated_Modified_MockData.xlsx")
 
@@ -39,13 +39,13 @@ class AcademicPlanApp(ctk.CTk):
         self.rtg_slider = ctk.CTkSlider(self, from_=0, to=100, orientation='horizontal')
         self.rtg_slider.pack()
 
-        # Output Text Area
-        self.output_text = ctk.CTkTextbox(self, height=10, width=50)
-        self.output_text.pack()
-
         # Generate Button
         self.generate_button = ctk.CTkButton(self, text="Generate Plan", command=self.generate_plan)
         self.generate_button.pack()
+
+        # Generate the output frame
+        self.output_text = ctk.CTkTextbox(self)
+        self.output_text.pack(fill='both', expand=True)
 
     def generate_plan(self):
         concentration = self.concentration_combobox.get()
@@ -56,9 +56,22 @@ class AcademicPlanApp(ctk.CTk):
         self.display_plan(plan)
 
     def display_plan(self, plan):
-        self.output_text.delete(1.0, ctk.END)
+        # Clear existing content in the text box
+        self.output_text.delete(1.0, tk.END)
+
         for semester, courses in enumerate(plan, start=1):
-            self.output_text.insert(ctk.END, f"Semester {semester}: {', '.join(courses)}\n")
+            # Add a header for each semester
+            self.output_text.insert(tk.END, f"Semester {semester}:\n")
+
+            # Assuming each course in courses is a dictionary with course details
+            for course in courses:
+                course_info = ", ".join(f"{key}: {value}" for key, value in course.items())
+                self.output_text.insert(tk.END, course_info + "\n")
+
+            # Add an extra line for spacing between semesters
+            self.output_text.insert(tk.END, "\n")
+
+
 
 if __name__ == "__main__":
     app = AcademicPlanApp()
