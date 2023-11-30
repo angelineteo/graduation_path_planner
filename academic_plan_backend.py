@@ -24,16 +24,19 @@ class AcademicPlanGenerator:
         self.prereqs = {row['Class Code']: row['Prereq code'] for _, row in prereqs.iterrows()}
 
     @staticmethod
-    def choose_best_section(self, sections, size_preference, difficulty_preference, professor_preference):
-        # Normalize slider values from 0 to 1
+    def choose_best_section(sections, size_preference, difficulty_preference, professor_preference):
+        # Normalize slider values
         size_weight = size_preference / 100
-        difficulty_weight = difficulty_preference / 100
-        professor_weight = professor_preference / 100
+        difficulty_weight = difficulty_preference/ 20
+        professor_weight = professor_preference / 20
 
         # Determine the best section based on weighted criteria
         best_section = min(sections, key=lambda x: (-x[2] * size_weight + x[1] * difficulty_weight - x[0] * professor_weight))
         return best_section
 
+    def get_concentrations(self):
+        unique_sec = self.df_sections['Concentration'].unique()
+        return unique_sec[2:]
 
     def generate_academic_plan(self, concentration, size_preference, difficulty_preference, professor_preference):
         self.parse_data(concentration)
