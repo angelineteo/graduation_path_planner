@@ -7,7 +7,7 @@ class AcademicPlanApp(ctk.CTk):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.title("Academic Plan Generator")
-        self.geometry("850x400")
+        self.geometry("1350x400")
 
         self.plan_generator = AcademicPlanGenerator("graduation_path_planner/Final_Spots_Updated_Modified_MockData.xlsx")
 

@@ -71,15 +71,23 @@ class AcademicPlanGenerator:
                     # Extract details from chosen_section
                     class_id, rmp_difficulty, spots_available, rmp_rating = chosen_section
                     course_concentration = self.df_sections[self.df_sections['Class ID'] == class_id]['Concentration'].iloc[0]
-                    
+
+                    # Extract professor's name
+                    professor_name = self.df_sections[self.df_sections['Class ID'] == class_id]['Instructor'].iloc[0]
+
+                    # Extract class name
+                    class_name = self.df_sections[self.df_sections['Class ID'] == class_id]['Class Name'].iloc[0]
+
                     # Append detailed information
                     academic_plan[semester].append({
                         'Course': course,
                         'Class ID': class_id,
+                        'Class Name': class_name,
+                        'Professor': professor_name,
                         'RMP Difficulty': rmp_difficulty,
                         'Class Size': spots_available,
-                        'RMP Rating': rmp_rating,
-                        'Concentration': course_concentration
+                        'RMP Rating': round(rmp_rating, 2),
+                        'Concentration': course_concentration,
                     })
                     completed_courses.add(course)
 
