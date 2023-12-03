@@ -33,7 +33,7 @@ class ElectivePicker:
     def get_recommendations(self):
         df_similarity = self.calculate_similarity()
         df_sorted = df_similarity.sort_values(by=['Similarity', 'Rating'], ascending=[False, False])
-        return df_sorted.head(20)
+        return df_sorted.head(30)
 
     def set_liked_courses(self, liked_courses):
         self.liked_courses = liked_courses
@@ -52,18 +52,4 @@ class ElectivePicker:
         liked_clusters = self.course_list[self.course_list['Title'].isin(self.liked_courses)]['Cluster']
         recommendations = self.course_list[self.course_list['Cluster'].isin(liked_clusters)]
         recommendations = recommendations.drop_duplicates().sort_values(by='Rating', ascending=False)
-        return recommendations.head(100)
-
-# Usage Example
-picker = ElectivePicker()
-picker.set_interest("I am interested in data analysis, movies, art, buildings, visualization, design")
-initial_recommendations = picker.get_recommendations()
-
-# Assuming the user likes some of these courses
-picker.set_liked_courses(['Mathematics of Art 1', 'Foundations of Data Science']) 
-picker.perform_clustering()
-further_recommendations = picker.get_cluster_based_recommendations()
-
-print(initial_recommendations)
-
-print(further_recommendations)
+        return recommendations.head(50)
