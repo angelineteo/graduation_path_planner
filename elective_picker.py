@@ -6,11 +6,12 @@ from sklearn.preprocessing import normalize
 
 class ElectivePicker:
 
-    def __init__(self, filepath):
-        self.course_list = pd.read_csv("graduation_path_planner/formatted_refined_table.csv")
+    def __init__(self):
+        self.course_list = pd.read_csv("graduation_path_planner/NUPath_data.csv")
         self.interest_paragraph = None
         self.tfidf = None
-
+        self.liked_courses = None
+        self.kmeans = None
 
     def set_interest(self, paragraph):
         self.interest_paragraph = paragraph
@@ -19,29 +20,28 @@ class ElectivePicker:
         if self.interest_paragraph is None or self.course_list is None:
             raise ValueError("Interest paragraph or course list is not set")
 
-        titles = pd.Series(self.course_list["Title"])
-        data = pd.concat([pd.Series(self.interest_paragraph), titles])
+        titles = self.course_list["Title"]
+        descriptions = self.course_list["Description"]
+        combined_texts = titles + " " + descriptions  # Combine titles and descriptions
+
+        data = pd.concat([pd.Series(self.interest_paragraph), combined_texts])
+     
         self.tfidf = TfidfVectorizer().fit_transform(data)
         cosine_sim = linear_kernel(self.tfidf[0:1], self.tfidf).flatten()
-        return pd.DataFrame({'Title': titles, 'Similarity': cosine_sim[1:]})
+        return pd.DataFrame({'Title': titles, 'Similarity': cosine_sim[1:], 'Rating': self.course_list['Rating']})
 
     def get_recommendations(self):
         df_similarity = self.calculate_similarity()
-        df_sorted = df_similarity.sort_values(by='Similarity', ascending=False)
+        df_sorted = df_similarity.sort_values(by=['Similarity', 'Rating'], ascending=[False, False])
         return df_sorted.head(20)
 
     def set_liked_courses(self, liked_courses):
         self.liked_courses = liked_courses
 
-    def perform_clustering(self, n_clusters=86):
-        # Normalize the TF-IDF vectors
+    def perform_clustering(self, n_clusters=120):
         normalized_vectors = normalize(self.tfidf)
-        
-        # KMeans Clustering
         self.kmeans = KMeans(n_clusters=n_clusters)
         self.kmeans.fit(normalized_vectors)
-
-        # Storing the cluster each title belongs to
         correct_labels = self.kmeans.labels_[self.course_list.index]
         self.course_list['Cluster'] = correct_labels
 
@@ -49,21 +49,21 @@ class ElectivePicker:
         if self.liked_courses is None:
             raise ValueError("Liked courses not set")
 
-        # Find the clusters of the liked courses
         liked_clusters = self.course_list[self.course_list['Title'].isin(self.liked_courses)]['Cluster']
-        
-        # Recommend courses from the same clusters
         recommendations = self.course_list[self.course_list['Cluster'].isin(liked_clusters)]
-        return recommendations.drop_duplicates().head(20)
+        recommendations = recommendations.drop_duplicates().sort_values(by='Rating', ascending=False)
+        return recommendations.head(100)
 
-# Usage
-picker = ElectivePicker("graduation_path_planner/formatted_refined_table.csv")
-picker.set_interest("I am interested in  data analysis, movies, art, buildings, visualization, design")
+# Usage Example
+picker = ElectivePicker()
+picker.set_interest("I am interested in data analysis, movies, art, buildings, visualization, design")
 initial_recommendations = picker.get_recommendations()
 
 # Assuming the user likes some of these courses
-picker.set_liked_courses(['Mathematics of Art 1', 'Data Storytelling'])  # Replace with actual course titles chosen by the user
+picker.set_liked_courses(['Mathematics of Art 1', 'Foundations of Data Science']) 
 picker.perform_clustering()
 further_recommendations = picker.get_cluster_based_recommendations()
 
 print(initial_recommendations)
+
+print(further_recommendations)
