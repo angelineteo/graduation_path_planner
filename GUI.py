@@ -9,7 +9,7 @@ class AcademicPlanApp(ctk.CTk):
         self.title("Academic Plan Generator")
         self.geometry("1350x400")
 
-        self.plan_generator = AcademicPlanGenerator("graduation_path_planner/Final_Spots_Updated_Modified_MockData.xlsx")
+        self.plan_generator = AcademicPlanGenerator()
 
         # Dropdown for Concentrations
         self.concentration_label = ctk.CTkLabel(self, text="Select your concentration:")
