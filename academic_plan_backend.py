@@ -37,7 +37,7 @@ class AcademicPlanGenerator:
     def generate_academic_plan(self, concentration, size_preference, difficulty_preference, professor_preference):
         self.parse_data(concentration)
         TOTAL_SEMESTERS = 8
-        MAX_CREDITS_PER_SEMESTER = 17
+        MAX_CREDITS_PER_SEMESTER = 18
         academic_plan = [[] for _ in range(TOTAL_SEMESTERS)]
         completed_courses = set()
 
